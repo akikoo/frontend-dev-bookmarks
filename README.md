@@ -48,7 +48,7 @@ cleaning up is still required. This list is a living document, obviously ;).
 * http://www.w3.org/TR/mwbp-wcag/
 
 
-## HTML5 Resources (mainly related to semantic markup)
+## HTML5 Resources (semantic markup mainly)
 
 ### HTML5 Specification
 
@@ -69,6 +69,13 @@ cleaning up is still required. This list is a living document, obviously ;).
 * HTML5 Outliner bookmarklet/extension (h5o) http://code.google.com/p/h5o/
 * HTML5 Validator: http://html5.validator.nu/
 * Forms: http://nativeformelements.com/
+* http://www.456bereastreet.com/archive/201103/html5_sectioning_elements_headings_and_document_outlines/
+* http://www.456bereastreet.com/archive/201104/html5_document_outline_revisited/
+* http://mezzoblue.com/archives/2011/01/31/boilerplate/
+* http://www.nczonline.net/blog/2011/03/22/using-html5-semantic-elements-today/
+* http://tantek.com/presentations/2010/11/html5-now/
+* http://microformats.org/wiki/hatom
+
 
 ### HTML5 Video
 
@@ -92,13 +99,47 @@ cleaning up is still required. This list is a living document, obviously ;).
 
 * Don't use IDs in CSS selectors?: http://oli.jp/2011/ids/
 * http://lea.verou.me/css3patterns/
+* http://smacss.com/
+* http://oocss.org/
+* http://sass-lang.com/
+* https://github.com/davidrapson/scss-toolkit
+* http://jakearchibald.github.com/sass-ie/
+* http://lesscss.org/
+* http://oli.jp/2011/ids/
+* http://code.google.com/p/universal-ie6-css/
+* https://github.com/necolas/normalize.css
+
+
+### Media Queries
+
+* http://forabeautifulweb.com/blog/about/hardboiled_css3_media_queries/
+* http://stuffandnonsense.co.uk/blog/about/proportional_leading_with_css3_media_queries/
+* http://www.blog.highub.com/mobile-2/revisit-hardboiled-css3-media-queries/
+* http://css-tricks.com/6731-css-media-queries/
+* http://www.quirksmode.org/blog/archives/2010/08/combining_media.html
+* http://www.slideshare.net/bryanrieger/rethinking-the-mobile-web-by-yiibu
+* http://www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/
+* http://www.broken-links.com/2011/02/21/using-media-queries-in-the-real-world/
+* http://nicolasgallagher.com/mobile-first-css-sass-and-ie/
 
 ### Architecture
 
 * http://engineering.appfolio.com/2012/11/16/css-architecture/
+* “Mobile first” CSS and getting Sass to help with legacy IE - http://nicolasgallagher.com/mobile-first-css-sass-and-ie/
 
 ### CSS Style Guides
 https://github.com/csswizardry/CSS-Guidelines
+
+
+## Starter Templates and Boilerplates
+
+* HTML5 Boilerplate: http://html5boilerplate.com
+* HTML5 Mobile Boilerplate: http://html5boilerplate.com/mobile
+* 320AndUp: http://forabeautifulweb.com/blog/about/320_and_up/
+* One Web Boilerplate: http://akikoo.github.io/one-web-boilerplate/
+* Backbone Boilerplate - https://github.com/tbranyen/backbone-boilerplate
+* http://foundation.zurb.com/
+* http://twitter.github.com/bootstrap/
 
 
 ## Responsive Web Design Resources
@@ -116,6 +157,9 @@ https://github.com/csswizardry/CSS-Guidelines
 * http://www.webdesignerdepot.com/2011/09/the-ultimate-responsive-web-design-roundup/
 * http://adactio.com/journal/4494/
 * http://adactio.com/journal/1700/
+* http://adactio.com/journal/1716/
+* http://adactio.com/journal/4780/
+* http://adactio.com/journal/1700/
 * http://staffanstorp.se/
 * http://svt.se/ug/
 * http://www.netmagazine.com/features/ethan-marcottes-20-favourite-responsive-sites
@@ -125,12 +169,19 @@ https://github.com/csswizardry/CSS-Guidelines
 * http://css-tricks.com/notes-agency-starting-their-first-responsive-web-project/
 * http://timkadlec.com/2013/01/setting-a-performance-budget/
 * http://bradfrost.github.com/this-is-responsive/
+* http://www.abookapart.com/products/responsive-web-design
+* http://easy-readers.net/
+* http://www.alistapart.com/articles/responsive-web-design/
+* http://www.lukew.com/ff/entry.asp?933
 
 ### Fluid Grids
 
 * http://dbushell.com/2013/03/19/on-responsive-layout-and-grids/
+* Fluid grid - http://akikoo.github.com/Fluid-Grid/
+* The Semantic Grid: http://semantic.gs/
+* Trevor Davis' Sass & Compass Grid: http://viget.com/inspire/building-a-nested-responsive-grid-with-sass-compass
 
-### Fluid/Responsive Images
+### Fluid/Responsive Images/Icons
 
 * http://filamentgroup.com/lab/responsive_images_experimenting_with_context_aware_image_sizing/
 * http://adaptive-images.com/ Looks BRILLIANT!
@@ -140,6 +191,12 @@ https://github.com/csswizardry/CSS-Guidelines
 * http://staffanstorp.se/
 * Image optimization: ImageAlpha http://pngmini.com/
 * http://imageoptim.com/
+* Grunticon - http://filamentgroup.com/lab/grunticon/
+* http://unstoppablerobotninja.com/entry/fluid-images/
+* http://blog.cloudfour.com/responsive-imgs/
+* http://www.cloudfour.com/responsive-imgs-part-2/
+* http://blog.cloudfour.com/responsive-imgs-part-3-future-of-the-img-tag/
+
 
 ### Fluid/Responsive Videos
 
@@ -181,6 +238,13 @@ https://github.com/csswizardry/CSS-Guidelines
 * What Makes a Good Front-end Engineer?: http://www.nczonline.net/blog/2007/08/15/what-makes-a-good-front-end-engineer/
 * Interviewing the Front-end Engineer: http://www.nczonline.net/blog/2010/01/05/interviewing-the-front-end-engineer/
 * A Baseline for Front-end Developers: http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
+
+### Libraries
+
+* RequireJS - http://requirejs.org/
+* example.build.js - https://github.com/jrburke/r.js/blob/master/build/example.build.js
+* https://github.com/ryanfitzer/Example-RequireJS-jQuery-Project
+* https://github.com/jrburke/almond
 * https://github.com/ftlabs/fastclick
 
 ### JavaScript Style Guides
@@ -278,6 +342,13 @@ http://www.mobilexweb.com/emulators
 * http://jsfiddle.net/
 * Live code share: http://codeshare.io/GdOG4
 * http://codepen.io/
+
+### Workflow and Automated Unit Testing
+
+* Grunt task runner: http://gruntjs.com/
+* Testing Require.js code with Karma: https://github.com/kjbekkelund/karma-requirejs
+* Karma test runner for JavaScript: http://karma-runner.github.io/
+* Jasmine: http://pivotal.github.io/jasmine/
 
 
 ## Miscellaneous Required Reading:
