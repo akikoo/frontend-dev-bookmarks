@@ -120,14 +120,15 @@ cleaning up is still required. This list is a living document, obviously ;).
 * http://www.slideshare.net/bryanrieger/rethinking-the-mobile-web-by-yiibu
 * http://www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/
 * http://www.broken-links.com/2011/02/21/using-media-queries-in-the-real-world/
-* http://nicolasgallagher.com/mobile-first-css-sass-and-ie/
 
 ### Architecture
 
 * http://engineering.appfolio.com/2012/11/16/css-architecture/
-* “Mobile first” CSS and getting Sass to help with legacy IE - http://nicolasgallagher.com/mobile-first-css-sass-and-ie/
+* http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
+* “Mobile first” CSS and getting Sass to help with legacy IE: http://nicolasgallagher.com/mobile-first-css-sass-and-ie/
 
-### CSS Style Guides
+### CSS Guidelines
+
 https://github.com/csswizardry/CSS-Guidelines
 
 
@@ -137,9 +138,9 @@ https://github.com/csswizardry/CSS-Guidelines
 * HTML5 Mobile Boilerplate: http://html5boilerplate.com/mobile
 * 320AndUp: http://forabeautifulweb.com/blog/about/320_and_up/
 * One Web Boilerplate: http://akikoo.github.io/one-web-boilerplate/
-* Backbone Boilerplate - https://github.com/tbranyen/backbone-boilerplate
-* http://foundation.zurb.com/
-* http://twitter.github.com/bootstrap/
+* Backbone Boilerplate: https://github.com/tbranyen/backbone-boilerplate
+* ZURB Foundation: http://foundation.zurb.com/
+* Twitter Bootstrap: http://twitter.github.com/bootstrap/
 
 
 ## Responsive Web Design Resources
@@ -177,21 +178,21 @@ https://github.com/csswizardry/CSS-Guidelines
 ### Fluid Grids
 
 * http://dbushell.com/2013/03/19/on-responsive-layout-and-grids/
-* Fluid grid - http://akikoo.github.com/Fluid-Grid/
+* Fluid grid: http://akikoo.github.com/Fluid-Grid/
 * The Semantic Grid: http://semantic.gs/
 * Trevor Davis' Sass & Compass Grid: http://viget.com/inspire/building-a-nested-responsive-grid-with-sass-compass
 
 ### Fluid/Responsive Images/Icons
 
 * http://filamentgroup.com/lab/responsive_images_experimenting_with_context_aware_image_sizing/
-* http://adaptive-images.com/ Looks BRILLIANT!
+* http://adaptive-images.com/ 
 * http://blog.andyhume.net/content-aware-responsive-images
 * http://mattwilcox.net/archive/entry/id/1053/
 * https://github.com/ahume/Responsive-Images
 * http://staffanstorp.se/
 * Image optimization: ImageAlpha http://pngmini.com/
 * http://imageoptim.com/
-* Grunticon - http://filamentgroup.com/lab/grunticon/
+* Grunticon: http://filamentgroup.com/lab/grunticon/
 * http://unstoppablerobotninja.com/entry/fluid-images/
 * http://blog.cloudfour.com/responsive-imgs/
 * http://www.cloudfour.com/responsive-imgs-part-2/
@@ -217,11 +218,11 @@ https://github.com/csswizardry/CSS-Guidelines
 
 * http://bagcheck.com/bag/4986-the-multi-size-web
 * http://mattkersley.com/responsive/?stuffandnonsense.co.uk/projects/320andup
-* http://responsivepx.com/ GREAT!
-* http://quirktools.com/screenfly/ GREAT!
+* http://responsivepx.com/
+* http://quirktools.com/screenfly/
 * http://www.bostonglobe.com/
-* http://www.lukew.com/ff/entry.asp?1436 --SUMMARY, LINKS!
-* http://globalmoxie.com/blog/making-of-people-mobile.shtml -- GREAT!
+* http://www.lukew.com/ff/entry.asp?1436 
+* http://globalmoxie.com/blog/making-of-people-mobile.shtml 
 
 
 ## JavaScript and Generic Development Resources
@@ -241,8 +242,8 @@ https://github.com/csswizardry/CSS-Guidelines
 
 ### Libraries
 
-* RequireJS - http://requirejs.org/
-* example.build.js - https://github.com/jrburke/r.js/blob/master/build/example.build.js
+* RequireJS: http://requirejs.org/
+* example.build.js: https://github.com/jrburke/r.js/blob/master/build/example.build.js
 * https://github.com/ryanfitzer/Example-RequireJS-jQuery-Project
 * https://github.com/jrburke/almond
 * https://github.com/ftlabs/fastclick
@@ -304,10 +305,10 @@ the same LAN, see these:
 Setting that up enables you to develop locally but test on any device connected 
 to the same network.
 
-* Remote Preview: https://dl.dropbox.com/u/1300176/www/remote-preview/index.html #testing
-* Mobitest: http://mobitest.akamai.com/m/index.cgi #testing
-* Media query bookmarklet: http://seesparkbox.com/foundry/media_query_bookmarklet #testing
-* Mobile perf bookmarklet: http://stevesouders.com/mobileperf/mobileperfbkm.php #testing
+* Remote Preview: https://dl.dropbox.com/u/1300176/www/remote-preview/index.html 
+* Mobitest: http://mobitest.akamai.com/m/index.cgi 
+* Media query bookmarklet: http://seesparkbox.com/foundry/media_query_bookmarklet
+* Mobile perf bookmarklet: http://stevesouders.com/mobileperf/mobileperfbkm.php 
 
 ### Mobile Emulator Testing
 
