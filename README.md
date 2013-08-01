@@ -5,10 +5,10 @@ This is a collection of essential (or just useful/inspirational) Front-End
 Development &amp; Accessibility bookmarks, frequently used in our daily work. 
 
 I try to keep this list generic (with a few exceptions), focusing on higher level 
-concepts instead, such as accessibility, performance, code quality, workflow 
-and best practices.
+concepts instead, such as accessibility, architecture, performance, code quality, 
+workflow and best practices.
 
-This list is a living document (no shit!). 
+This is a living document (no shit!). 
 
 
 ## Accessibility Resources
@@ -122,10 +122,10 @@ This list is a living document (no shit!).
 * CSS Architecture: http://engineering.appfolio.com/2012/11/16/css-architecture/
 * About HTML semantics and front-end architecture: http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 
-### CSS Guidelines, Style Guides and Patterns
+### CSS Guidelines, Style Guides & Patterns
 
 * Harry Roberts' general CSS notes, advice and guidelines: https://github.com/csswizardry/CSS-Guidelines
-* Paul Robert LLoyd's Styleguide: http://paulrobertlloyd.com/about/styleguide/
+* Paul Robert Lloyd's Styleguide: http://paulrobertlloyd.com/about/styleguide/
 * Front-end Style Guides: http://24ways.org/2011/front-end-style-guides/
 * Starbucks Style Guide: http://www.starbucks.com/static/reference/styleguide/
 * Barebones (an initial directory setup, style guide and pattern primer by Paul Robert Lloyd): http://barebones.paulrobertlloyd.com/
@@ -180,6 +180,7 @@ This list is a living document (no shit!).
 * Responsive Data Table Roundup: http://css-tricks.com/responsive-data-table-roundup/
 * Case Study: Betting on a fully responsive web application: http://blog.14islands.com/post/52546836134/case-study-betting-on-a-fully-responsive-web
 * Viewport Sizes: http://viewportsizes.com/
+* Build a responsive site in a week (tutorial in five parts, this is part 1: designing responsively): http://www.netmagazine.com/tutorials/build-responsive-site-week-designing-responsively-part-1
 
 ### Responsive Design Methodologies
 
@@ -208,7 +209,7 @@ This list is a living document (no shit!).
 * Combining media queries and JavaScript: http://www.quirksmode.org/blog/archives/2010/08/combining_media.html
 * Conditional CSS: http://adactio.com/journal/5429/
 * Detect from JavaScript whether media queries have been executed in CSS: http://codepen.io/akikoo/pen/GEdex
-* Library that uses CSS media queries to trigger breakpoints in Javascript: https://github.com/14islands/js-breakpoints
+* JavaScript Breakpoints: library that uses CSS media queries to trigger breakpoints in Javascript: https://github.com/14islands/js-breakpoints
 
 ### Element Queries
 
