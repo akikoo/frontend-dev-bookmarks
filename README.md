@@ -79,7 +79,7 @@ cleaning up is still required. This list is a living document, obviously ;).
 * hAtom 0.1 Microformat: http://microformats.org/wiki/hatom
 
 
-### HTML5 Video
+### HTML5 Audio & Video
 
 * HTML5 Audio and Video: What you Must Know: http://net.tutsplus.com/tutorials/html-css-techniques/html5-audio-and-video-what-you-must-know/
 * Video for Everybody: http://camendesign.com/code/video_for_everybody
@@ -232,51 +232,53 @@ cleaning up is still required. This list is a living document, obviously ;).
 * Interviewing the Front-end Engineer: http://www.nczonline.net/blog/2010/01/05/interviewing-the-front-end-engineer/
 * A Baseline for Front-end Developers: http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
 
-### Libraries
+### Libraries and Polyfills
 
 * RequireJS: http://requirejs.org/
 * example.build.js: https://github.com/jrburke/r.js/blob/master/build/example.build.js
-* https://github.com/ryanfitzer/Example-RequireJS-jQuery-Project
-* https://github.com/jrburke/almond
-* https://github.com/ftlabs/fastclick
+* Example RequireJS jQuery Project: https://github.com/ryanfitzer/Example-RequireJS-jQuery-Project
+* almond.js (a minimal AMD API implementation for use after optimized builds): https://github.com/jrburke/almond
+* fastclick (polyfill to remove click delays on browsers with touch UIs): https://github.com/ftlabs/fastclick
 * microjs: http://microjs.com/
 
 ### JavaScript Style Guides
 
-* http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+* Google JavaScript Style Guide: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
 
 ### HTML5 JavaScript APIs
 
 * Dive into HTML5: http://diveintohtml5.org/
-* HTML5 Audio and Video: What you Must Know: http://net.tutsplus.com/tutorials/html-css-techniques/html5-audio-and-video-what-you-must-know/
-* Everything you need to know about HTML5 video and audio: http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/
-* Video for Everybody: http://camendesign.com/code/video_for_everybody
-* Code examples for the book "The Definitive Guide to HTML5 Video": http://www.html5videoguide.net/
-* Demos of HTML5 Video and Audio Tag Accessibility: http://www.annodex.net/~silvia/itext/
+
 
 ## SVG
 
-* http://www.alistapart.com/articles/cross-platform-scalable-vector-graphics-with-svgweb/
-* http://code.google.com/p/svgweb/
-* http://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html
-* http://www.w3.org/TR/SVG/single-page.html
-* http://www.alistapart.com/articles/svg-with-a-little-help-from-raphael/
-* http://g.raphaeljs.com/
-* http://raphaeljs.com/
-* http://playground.mobily.pl/tutorials/building-an-interactive-map-with-raphael.html
-* http://www.atirip.com/convert-svg-into-raphael
-* http://www.shapevent.com/scaleraphael/
-* http://www.svgbasics.com/
-* http://www.openstreetmap.org/
-* http://jvectormap.owl-hollow.net/
-* http://www.giscloud.com/forum/topic/155
-* http://commons.oreilly.com/wiki/index.php/SVG_Essentials/Preface
-* http://designfestival.com/a-farewell-to-css3-gradients/
-* http://philbit.com/svgpatterns/
+### SVG Specification
 
-## SVG Editors
+* An SVG Primer for Today's Browsers: http://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html
+* Scalable Vector Graphics (SVG) 1.1 (Second Edition): http://www.w3.org/TR/SVG/single-page.html
 
-* http://code.google.com/p/svg-edit/
+### Generic
+
+* SVG Basics Tutorials: http://www.svgbasics.com/
+* SVG Essentials: http://commons.oreilly.com/wiki/index.php/SVG_Essentials/Preface
+* A Farewell to CSS3 Gradients: http://designfestival.com/a-farewell-to-css3-gradients/
+* SVG Patterns Gallery: http://philbit.com/svgpatterns/
+* Using SVG: http://css-tricks.com/using-svg/
+
+### Libraries
+
+* Raphaël: http://raphaeljs.com/
+* gRaphaël (charts with Raphaël): http://g.raphaeljs.com/
+* Cross Platform Scalable Vector Graphics with svgweb: http://www.alistapart.com/articles/cross-platform-scalable-vector-graphics-with-svgweb/
+* svgweb: http://code.google.com/p/svgweb/
+* SVG with a little help from Raphaël: http://www.alistapart.com/articles/svg-with-a-little-help-from-raphael/
+* Convert SVG into Raphaël: http://www.atirip.com/convert-svg-into-raphael
+* ScaleRaphaël: http://www.shapevent.com/scaleraphael/
+* jVectorMap: http://jvectormap.owl-hollow.net/
+
+### SVG Editors
+
+* svg-edit: http://code.google.com/p/svg-edit/
 
 
 ## Quality Assurance & Testing 
