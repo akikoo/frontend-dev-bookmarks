@@ -1,9 +1,14 @@
-Front-End Development & Accessibility bookmarks
-===============================================
+Front-End Bookmarks
+===================
 
-This is a collection of essential (or otherwise influential) Front-End Development 
-&amp; Accessibility bookmarks, frequently used in daily Front-End work. A lot of 
-cleaning up is still required. This list is a living document, obviously ;). 
+This is a collection of essential (or just useful/inspirational) Front-End 
+Development &amp; Accessibility bookmarks, frequently used in our daily work. 
+
+I try to keep this list generic (with a few exceptions), focusing on higher level 
+concepts instead, such as accessibility, performance, code quality, workflow 
+and best practices.
+
+This list is a living document (no shit!). 
 
 
 ## Accessibility Resources
@@ -101,6 +106,7 @@ cleaning up is still required. This list is a living document, obviously ;).
 * Sass Toolkit: https://github.com/davidrapson/scss-toolkit
 * "Mobile first" CSS and getting Sass to help with legacy IE: http://nicolasgallagher.com/mobile-first-css-sass-and-ie/
 * Sass with legacy IE: http://jakearchibald.github.com/sass-ie/
+* Compass: http://compass-style.org/
 * LESS: http://lesscss.org/
 * Universal IE6 CSS: http://code.google.com/p/universal-ie6-css/
 * Don't use IDs in CSS selectors?: http://oli.jp/2011/ids/
@@ -110,16 +116,25 @@ cleaning up is still required. This list is a living document, obviously ;).
 
 * SMACSS: http://smacss.com/
 * OOCSS: http://oocss.org/
+* The media object saves hundreds of lines of code: http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/
 * BEM: http://bem.info/
+* MindBEMding – getting your head 'round BEM syntax: http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 * CSS Architecture: http://engineering.appfolio.com/2012/11/16/css-architecture/
 * About HTML semantics and front-end architecture: http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 
-### CSS Guidelines
+### CSS Guidelines, Style Guides and Patterns
 
 * Harry Roberts' general CSS notes, advice and guidelines: https://github.com/csswizardry/CSS-Guidelines
+* Paul Robert LLoyd's Styleguide: http://paulrobertlloyd.com/about/styleguide/
+* Front-end Style Guides: http://24ways.org/2011/front-end-style-guides/
+* Starbucks Style Guide: http://www.starbucks.com/static/reference/styleguide/
+* Barebones (an initial directory setup, style guide and pattern primer by Paul Robert Lloyd): http://barebones.paulrobertlloyd.com/
+* Oli Studholme's Style Guide: http://oli.jp/2011/style-guide/
+* Pears: http://pea.rs/
+* Style Guide Boilerplate: http://brettjankord.com/projects/style-guide-boilerplate/
+* Creating Living Style Guides to Improve Performance: http://www.stubbornella.org/content/2013/06/05/creating-living-style-guides-to-improve-performance/
 
-
-## Starter Templates and Boilerplates
+## Starter Templates, Boilerplates & Frameworks
 
 * HTML5 Boilerplate: http://html5boilerplate.com
 * HTML5 Mobile Boilerplate: http://html5boilerplate.com/mobile
@@ -131,6 +146,7 @@ cleaning up is still required. This list is a living document, obviously ;).
 * Twitter Bootstrap: http://twitter.github.com/bootstrap/
 * Mezzoblue HTML5 Boilerplate: http://mezzoblue.com/archives/2011/01/31/boilerplate/
 * HTML5 base template: https://gist.github.com/akikoo/f8f9ccfe149244e8e72a
+* Pure: http://purecss.io/
 
 
 ## Responsive Web Design Resources
@@ -157,22 +173,49 @@ cleaning up is still required. This list is a living document, obviously ;).
 * Responsive Web Design (A Book Apart book): http://www.abookapart.com/products/responsive-web-design
 * Adaptive Web Design (Easy Readers book): http://easy-readers.net/
 * Responsive Web Design (A List Apart article): http://www.alistapart.com/articles/responsive-web-design/
+* Common Patterns in Styleguides, Boilerplates and Pattern Libraries: http://blog.cloudfour.com/common-patterns/
+* Styleguide & Boilerplate Patterns (linked from the above article): https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0
+* Building for Content Choreography using Flexbox: http://www.jordanm.co.uk/post/53179333055/building-for-content-choreography-using-flexbox
+* Responsive Design Workflow (book by Stephen Hay): http://responsivedesignworkflow.com/
+* Responsive Data Table Roundup: http://css-tricks.com/responsive-data-table-roundup/
+* Case Study: Betting on a fully responsive web application: http://blog.14islands.com/post/52546836134/case-study-betting-on-a-fully-responsive-web
+* Viewport Sizes: http://viewportsizes.com/
+
+### Responsive Design Methodologies
+
+* Style Tiles: http://styletil.es/
+* Atomic Design: http://bradfrostweb.com/blog/post/atomic-web-design/
+* Pattern Lab: http://patternlab.bradfrostweb.com/
+* Interface Inventory: http://bradfrostweb.com/blog/post/interface-inventory/
 
 ### Mobile First
 
 * Mobile First: http://www.lukew.com/ff/entry.asp?933
+* Rethinking the Mobile Web: http://www.slideshare.net/bryanrieger/rethinking-the-mobile-web-by-yiibu
 * Multi-Device Web Design: An Evolution: http://www.lukew.com/ff/entry.asp?1436
 * The Multi-Size Web: http://bagcheck.com/bag/4986-the-multi-size-web
 
-### Media Queries
+### Media Queries (CSS)
 
 * Essential considerations for crafting quality media queries: http://zomigi.com/blog/essential-considerations-for-crafting-quality-media-queries/
 * Proportional leading with CSS3 Media Queries: http://stuffandnonsense.co.uk/blog/about/proportional_leading_with_css3_media_queries/
 * Revisit Hardboiled CSS3 Media Queries: http://www.blog.highub.com/mobile-2/revisit-hardboiled-css3-media-queries/
 * CSS Media Queries & Using Available Space: http://css-tricks.com/6731-css-media-queries/
-* Combining media queries and JavaScript: http://www.quirksmode.org/blog/archives/2010/08/combining_media.html
-* Rethinking the Mobile Web: http://www.slideshare.net/bryanrieger/rethinking-the-mobile-web-by-yiibu
 * Using Media Queries in the Real World: http://www.broken-links.com/2011/02/21/using-media-queries-in-the-real-world/
+
+### Media Queries (CSS + JS)
+
+* Combining media queries and JavaScript: http://www.quirksmode.org/blog/archives/2010/08/combining_media.html
+* Conditional CSS: http://adactio.com/journal/5429/
+* Detect from JavaScript whether media queries have been executed in CSS: http://codepen.io/akikoo/pen/GEdex
+* Library that uses CSS media queries to trigger breakpoints in Javascript: https://github.com/14islands/js-breakpoints
+
+### Element Queries
+
+* Working around a lack of element queries: http://filamentgroup.com/lab/element_query_workarounds/
+* Thoughts on Media Queries for Elements: http://www.jonathantneal.com/blog/thoughts-on-media-queries-for-elements/
+* MediaClass (Javascript-powered cross-browser media queries and events): https://github.com/jonathantneal/MediaClass
+* Selector Queries (adjust the layout of an HTML element based on its width): https://github.com/ahume/selector-queries/
 
 ### Fluid Grids
 
@@ -195,11 +238,27 @@ cleaning up is still required. This list is a living document, obviously ;).
 * Responsive IMGs Part 1: http://blog.cloudfour.com/responsive-imgs/
 * Responsive IMGs Part 2 — In-depth Look at Techniques: http://www.cloudfour.com/responsive-imgs-part-2/
 * Responsive IMGs Part 3 — Future of the IMG Tag: http://blog.cloudfour.com/responsive-imgs-part-3-future-of-the-img-tag/
+* The Big List of Flat Icons & Icon Fonts: http://css-tricks.com/flat-icons-icon-fonts/
+* IcoMoon: http://icomoon.io/app/
+* Responsive Images Chart: https://docs.google.com/spreadsheet/ccc?key=0Al0lI17fOl9DdDgxTFVoRzFpV3VCdHk2NTBmdVI2OXc#gid=0 
+* Choosing A Responsive Image Solution: http://mobile.smashingmagazine.com/2013/07/08/choosing-a-responsive-image-solution/
+* picturefill: https://github.com/scottjehl/picturefill
+* Responsible responsive images: http://adactio.com/journal/4997/
+* Simple Responsive Images With CSS Background Images: http://mobile.smashingmagazine.com/2013/07/22/simple-responsive-images-with-css-backgrounds/
+* Responsive & Retina Content Images Redux using Media Queries & a base64 spacer GIF: http://mattstow.com/responsive-and-retina-content-images-redux.html
 
 ### Fluid/Responsive Videos
 
+* Creating Intrinsic Ratios for Video: http://alistapart.com/article/creating-intrinsic-ratios-for-video
 * FitVids.js: http://fitvidsjs.com/
 * Elastic Videos: http://webdesignerwall.com/tutorials/css-elastic-videos
+
+### Responsive Navigation
+
+* Implementing Off-Canvas Navigation For A Responsive Website: http://coding.smashingmagazine.com/2013/01/15/off-canvas-navigation-for-responsive-website/
+* Responsive Nav: http://responsive-nav.com/
+* Responsive Navigation: http://responsivenavigation.net/
+* Build a smart mobile navigation without hacks: http://www.netmagazine.com/tutorials/build-smart-mobile-navigation-without-hacks
 
 ### Responsive Tools
 
@@ -214,8 +273,8 @@ cleaning up is still required. This list is a living document, obviously ;).
 * Viewport resizer (screenfly by Quirktools): http://quirktools.com/screenfly/
 * Viewport resizer (Responsinator): http://www.responsinator.com/
 * Simple responsive design test page: http://bricss.net/post/16538278376/simple-responsive-design-test-page
-* Atomic Design: http://bradfrostweb.com/blog/post/atomic-web-design/
-* Pattern Lab: http://patternlab.bradfrostweb.com/
+* Pixel density tests: http://www.matanich.com/examples/pixel-density-tests/
+* Embed Responsively: http://embedresponsively.com/
 
 
 ## JavaScript and Generic Development Resources
@@ -231,6 +290,20 @@ cleaning up is still required. This list is a living document, obviously ;).
 * What Makes a Good Front-end Engineer?: http://www.nczonline.net/blog/2007/08/15/what-makes-a-good-front-end-engineer/
 * Interviewing the Front-end Engineer: http://www.nczonline.net/blog/2010/01/05/interviewing-the-front-end-engineer/
 * A Baseline for Front-end Developers: http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
+* Front-End Ops: http://www.smashingmagazine.com/2013/06/11/front-end-ops/
+* Building Super Fast Web Apps with PJAX: http://ntotten.com/2012/04/09/building-super-fast-web-apps-with-pjax/
+* Front-end performance for web designers and front-end developers: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
+* Common code problems solved using JavaScript: https://github.com/blakeembrey/code-problems
+* JavaScript The Right Way: http://jstherightway.com/
+* The JavaScript Cookbook (a site for common JavaScript problems and solutions): http://javascriptcookbook.com/
+* Chrome DevTools Revolutions 2013: http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/
+* My workflow v3: full coding stack (Remy Sharp): http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/
+
+### Touch
+
+* You Can't Detect A Touchscreen: http://www.stucox.com/blog/you-cant-detect-a-touchscreen/
+* Detecting touch: it’s the "why", not the "how": https://hacks.mozilla.org/2013/04/detecting-touch-its-the-why-not-the-how/
+* Touch/pointer tests and demos: http://patrickhlauke.github.io/touch/
 
 ### Libraries and Polyfills
 
@@ -264,6 +337,10 @@ cleaning up is still required. This list is a living document, obviously ;).
 * A Farewell to CSS3 Gradients: http://designfestival.com/a-farewell-to-css3-gradients/
 * SVG Patterns Gallery: http://philbit.com/svgpatterns/
 * Using SVG: http://css-tricks.com/using-svg/
+* Splash Vector Graphics on your Responsive Site: http://www.html5rocks.com/en/tutorials/svg/mobile_fundamentals/
+* Using SVG graphics today: http://joshemerson.co.uk/blog/using-svg-graphics-today
+* SVG for Web: http://joshemerson.co.uk/blog/svg-for-web/
+* SVG, Use it Already: http://dbushell.com/2012/04/03/svg-use-it-already/
 
 ### Libraries
 
@@ -321,7 +398,7 @@ to the same network.
 * Can I use: http://caniuse.com/
 * I want to use (powered by data from caniuse.com): http://onmobile.iwanttouse.com/
 * Mobile Frameworks Comparison Chart: http://www.markus-falk.com/mobile-frameworks-comparison-chart/
-* HTML5 Please: http://html5please.us/
+* HTML5 Please: http://html5please.com/
 * HTML5 compatibility on mobile and tablet browsers: http://mobilehtml5.org/
 * Event compatibility tables: http://www.quirksmode.org/dom/events/
 
@@ -338,6 +415,10 @@ to the same network.
 * Karma test runner for JavaScript: http://karma-runner.github.io/
 * Jasmine: http://pivotal.github.io/jasmine/
 
+### Documentation
+
+* Documentation Tool: http://www.dexy.it/
+
 
 ## Miscellaneous Required Reading:
 
@@ -347,3 +428,6 @@ to the same network.
 * There is no Mobile Web: http://www.the-haystack.com/2011/01/07/there-is-no-mobile-web/
 * I don't care about Accessibility: http://www.veen.com/jeff/archives/000503.html
 * I don't care about User Experience: http://www.andybudd.com/archives/2011/05/i_dont_care_about_user_experience/. The way all good websites are built these days!
+* Progressive enhancement is still important: http://jakearchibald.com/2013/progressive-enhancement-still-important/
+* How Developers Stop Learning: Rise of the Expert Beginner: http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner
+
