@@ -121,6 +121,7 @@ This is a living document (no shit!).
 * MindBEMding – getting your head 'round BEM syntax: http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 * CSS Architecture: http://engineering.appfolio.com/2012/11/16/css-architecture/
 * About HTML semantics and front-end architecture: http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
+* inuit.css (Sass-based, BEM, OOCSS framework): http://inuitcss.com/
 
 ### CSS Guidelines, Style Guides & Patterns
 
@@ -431,4 +432,4 @@ to the same network.
 * I don't care about User Experience: http://www.andybudd.com/archives/2011/05/i_dont_care_about_user_experience/. The way all good websites are built these days!
 * Progressive enhancement is still important: http://jakearchibald.com/2013/progressive-enhancement-still-important/
 * How Developers Stop Learning: Rise of the Expert Beginner: http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner
-
+* Burnout: http://www.onishiweb.co.uk/2012/09/burnout/
