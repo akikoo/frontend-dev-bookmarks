@@ -72,10 +72,10 @@ This is a living document (no shit!).
 * HTML5 Demos and Examples: http://html5demos.com/
 * HTML5 Test: http://html5test.com/
 * HTML5 Rocks: http://www.html5rocks.com/en/
-* Robert Nyman's HTML5 Test Pages: http://robertnyman.com/html5/
+* HTML5 Test Pages (Robert Nyman): http://robertnyman.com/html5/
 * HTML5 Readiness: http://html5readiness.com/
 * HTML5 Outliner: http://gsnedders.html5.org/outliner/
-* HTML5 Outliner bookmarklet/extension (h5o) http://code.google.com/p/h5o/
+* HTML5 Outliner bookmarklet/extension (h5o): http://code.google.com/p/h5o/
 * HTML5 Validator: http://html5.validator.nu/
 * HTML5 form elements: http://nativeformelements.com/
 * HTML5 sectioning elements, headings, and document outlines: http://www.456bereastreet.com/archive/201103/html5_sectioning_elements_headings_and_document_outlines/
@@ -138,6 +138,7 @@ This is a living document (no shit!).
 
 ## Starter Templates, Boilerplates & Frameworks
 
+* Grunt Frontend Workflow: https://github.com/akikoo/grunt-frontend-workflow
 * HTML5 Boilerplate: http://html5boilerplate.com
 * HTML5 Mobile Boilerplate: http://html5boilerplate.com/mobile
 * 320AndUp: http://forabeautifulweb.com/blog/about/320_and_up/ (not maintained anymore)
@@ -163,7 +164,6 @@ This is a living document (no shit!).
 * Mobile Matrices: https://github.com/h5bp/mobile-boilerplate/wiki/Mobile-Matrices
 * Responsive Web Design: What It Is and How To Use It: http://coding.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/
 * The ultimate responsive web design roundup: http://www.webdesignerdepot.com/2011/09/the-ultimate-responsive-web-design-roundup/
-* Windows mobile media queries: http://adactio.com/journal/4494/
 * Responsive enhancement: http://adactio.com/journal/1700/
 * One web: http://adactio.com/journal/1716/
 * Re-tabulate: http://adactio.com/journal/4780/
@@ -176,7 +176,7 @@ This is a living document (no shit!).
 * Adaptive Web Design (Easy Readers book): http://easy-readers.net/
 * Responsive Web Design (A List Apart article): http://www.alistapart.com/articles/responsive-web-design/
 * Common Patterns in Styleguides, Boilerplates and Pattern Libraries: http://blog.cloudfour.com/common-patterns/
-* Styleguide & Boilerplate Patterns (linked from the above article): https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0
+* Styleguide & Boilerplate Patterns (linked from the article above): https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0
 * Building for Content Choreography using Flexbox: http://www.jordanm.co.uk/post/53179333055/building-for-content-choreography-using-flexbox
 * Responsive Design Workflow (book by Stephen Hay): http://responsivedesignworkflow.com/
 * Responsive Data Table Roundup: http://css-tricks.com/responsive-data-table-roundup/
@@ -206,6 +206,7 @@ This is a living document (no shit!).
 * Revisit Hardboiled CSS3 Media Queries: http://www.blog.highub.com/mobile-2/revisit-hardboiled-css3-media-queries/
 * CSS Media Queries & Using Available Space: http://css-tricks.com/6731-css-media-queries/
 * Using Media Queries in the Real World: http://www.broken-links.com/2011/02/21/using-media-queries-in-the-real-world/
+* Windows mobile media queries: http://adactio.com/journal/4494/
 
 ### Media Queries (CSS + JS)
 
@@ -234,7 +235,7 @@ This is a living document (no shit!).
 * Responsive Images (Andy Hume's fork of Filament Group's Responsive Images): https://github.com/ahume/Responsive-Images
 * Adaptive Images: http://adaptive-images.com/ 
 * Content aware responsive images: http://blog.andyhume.net/content-aware-responsive-images
-* Responsive &lt;img&gt; elements in HTML, for Responsive Designs http://mattwilcox.net/archive/entry/id/1053/
+* Responsive &lt;img&gt; elements in HTML, for Responsive Designs: http://mattwilcox.net/archive/entry/id/1053/
 * ImageAlpha: http://pngmini.com/
 * ImageOptim: http://imageoptim.com/
 * Grunticon: A Grunt.js plugin for managing and delivering sharp icons to all devices: http://filamentgroup.com/lab/grunticon/
