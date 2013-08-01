@@ -14,13 +14,12 @@ cleaning up is still required. This list is a living document, obviously ;).
 * The Web Accessibility Tools Consortium: http://www.wat-c.org/
 * Accessible Data Tables: http://www.usability.com.au/resources/tables.cfm
 * Data Table Accessibility Test Page: http://www.usability.com.au/resources/tabletest.cfm
-* A recommendation for keyboard shortcuts to be used in website widgets (DHTML Style Guide): http://dev.aol.com/dhtml_style_guide
+* A recommendation for keyboard shortcuts to be used in website widgets (DHTML Style Guide): http://access.aol.com/dhtml-style-guide-working-group/
 * The Paciello Group Blog: http://www.paciellogroup.com/blog/
 * HTML5 Accessibility: http://html5accessibility.com/
-* http://www.nomensa.com/blog/2012/7-web-accessibility-myths-2/
-* Keyboard accessibility: http://davidwalsh.name/keyboard-shortcuts
+* 7 web accessibility myths: http://www.nomensa.com/blog/2012/7-web-accessibility-myths-2/
 
-### Web Content Accessibility Guidelines (WCAG)
+### Web Content Accessibility Guidelines (WCAG 2.0)
 
 * Techniques for WCAG 2.0: http://www.w3.org/TR/WCAG20-TECHS/
 * WebAIM's WCAG 2.0 Checklist for HTML documents: http://webaim.org/standards/wcag/checklist
@@ -43,9 +42,12 @@ cleaning up is still required. This list is a living document, obviously ;).
 
 ### Mobile Accessibility Best Practices
 
-* http://www.iheni.com/mobile-accessibility-guidelines/
-* http://www.w3.org/TR/mobile-bp/
-* http://www.w3.org/TR/mwbp-wcag/
+* Resources for Mobile Accessibility Guidelines: http://www.iheni.com/mobile-accessibility-guidelines/
+* Mobile Web Best Practices 1.0: http://www.w3.org/TR/mobile-bp/
+* Relationship between Mobile Web Best Practices (MWBP) and Web Content Accessibility Guidelines (WCAG): http://www.w3.org/TR/mwbp-wcag/
+
+### Accessibility Libraries/Helpers
+* Keyboard accessibility: http://davidwalsh.name/keyboard-shortcuts
 
 
 ## HTML5 Resources (semantic markup mainly)
@@ -59,6 +61,7 @@ cleaning up is still required. This list is a living document, obviously ;).
 
 ### Other HTML5 Resources
 
+* HTML5 Hub: http://html5hub.com/#i.186eh3y11z4d4q
 * HTML5 Doctor: http://html5doctor.com/
 * HTML5 Demos and Examples: http://html5demos.com/
 * HTML5 Test: http://html5test.com/
@@ -68,29 +71,25 @@ cleaning up is still required. This list is a living document, obviously ;).
 * HTML5 Outliner: http://gsnedders.html5.org/outliner/
 * HTML5 Outliner bookmarklet/extension (h5o) http://code.google.com/p/h5o/
 * HTML5 Validator: http://html5.validator.nu/
-* Forms: http://nativeformelements.com/
-* http://www.456bereastreet.com/archive/201103/html5_sectioning_elements_headings_and_document_outlines/
-* http://www.456bereastreet.com/archive/201104/html5_document_outline_revisited/
-* http://mezzoblue.com/archives/2011/01/31/boilerplate/
-* http://www.nczonline.net/blog/2011/03/22/using-html5-semantic-elements-today/
-* http://tantek.com/presentations/2010/11/html5-now/
-* http://microformats.org/wiki/hatom
+* HTML5 form elements: http://nativeformelements.com/
+* HTML5 sectioning elements, headings, and document outlines: http://www.456bereastreet.com/archive/201103/html5_sectioning_elements_headings_and_document_outlines/
+* HTML5 document outline revisited: http://www.456bereastreet.com/archive/201104/html5_document_outline_revisited/
+* Using HTML5 semantic elements today: http://www.nczonline.net/blog/2011/03/22/using-html5-semantic-elements-today/
+* HTML5 Right Here, Right Now: http://tantek.com/presentations/2010/11/html5-now/
+* hAtom 0.1 Microformat: http://microformats.org/wiki/hatom
 
 
 ### HTML5 Video
 
-* http://net.tutsplus.com/tutorials/html-css-techniques/html5-audio-and-video-what-you-must-know/
-* http://static.etianen.com/html5media/
-* http://camendesign.com/code/video_for_everybody
-* http://www.html5videoguide.net/
-* http://www.annodex.net/~silvia/itext/
-* http://www.html5video.org/
-* http://videojs.com/
-* http://sublimevideo.net/
-* http://www.kaltura.org/project/HTML5_Video_Media_JavaScript_Library
-* http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/
-* http://mediaelementjs.com/
-* http://www.webaxe.org/accessible-html5-media-players-and-more/
+* HTML5 Audio and Video: What you Must Know: http://net.tutsplus.com/tutorials/html-css-techniques/html5-audio-and-video-what-you-must-know/
+* Video for Everybody: http://camendesign.com/code/video_for_everybody
+* Code examples for the book "The Definitive Guide to HTML5 Video": http://www.html5videoguide.net/
+* Demos of HTML5 Video and Audio Tag Accessibility: http://www.annodex.net/~silvia/itext/
+* HTML5Video.org (HTML5 Video Library & Web Video Developer Community): http://www.html5video.org/
+* Video.js (HTML5 video player): http://videojs.com/
+* Everything you need to know about HTML5 video and audio: http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/
+* MediaElement.js (HTML5 video/audio player with Flash and Silverlight shims): http://mediaelementjs.com/
+* Accessible HTML5 Media Players: http://www.webaxe.org/accessible-html5-media-players-and-more/
 
 
 ## CSS 
@@ -141,6 +140,7 @@ https://github.com/csswizardry/CSS-Guidelines
 * Backbone Boilerplate: https://github.com/tbranyen/backbone-boilerplate
 * ZURB Foundation: http://foundation.zurb.com/
 * Twitter Bootstrap: http://twitter.github.com/bootstrap/
+* Mezzoblue HTML5 Boilerplate: http://mezzoblue.com/archives/2011/01/31/boilerplate/
 
 
 ## Responsive Web Design Resources
