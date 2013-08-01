@@ -137,32 +137,32 @@ cleaning up is still required. This list is a living document, obviously ;).
 
 ### Generic 
 
-* http://bradfrost.github.com/this-is-responsive/index.html
-* http://www.cloudfour.com/weekend-reading-responsive-web-design-and-mobile-context/
-* http://www.smashingmagazine.com/2011/07/22/responsive-web-design-techniques-tools-and-design-strategies/
-* http://www.cloudfour.com/where-are-the-mobile-first-responsive-web-designs/
-* http://coding.smashingmagazine.com/2011/08/10/techniques-for-gracefully-degrading-media-queries/
-* https://github.com/shichuan/mobile-html5-boilerplate/wiki/Mobile-Matrices
-* http://coding.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/
-* http://wpmu.org/10-free-responsive-wordpress-themes/
-* http://www.webdesignerdepot.com/2011/09/the-ultimate-responsive-web-design-roundup/
-* http://adactio.com/journal/4494/
-* http://adactio.com/journal/1700/
-* http://adactio.com/journal/1716/
-* http://adactio.com/journal/4780/
-* http://adactio.com/journal/1700/
-* http://staffanstorp.se/
-* http://svt.se/ug/
-* http://www.netmagazine.com/features/ethan-marcottes-20-favourite-responsive-sites
-* http://www.slideshare.net/yiibu/pragmatic-responsive-design 
-* http://www.webmonkey.com/2012/01/building-a-responsive-future-friendly-web-for-everyone/
-* http://css-tricks.com/notes-agency-starting-their-first-responsive-web-project/
-* http://timkadlec.com/2013/01/setting-a-performance-budget/
-* http://bradfrost.github.com/this-is-responsive/
-* http://www.abookapart.com/products/responsive-web-design
-* http://easy-readers.net/
-* http://www.alistapart.com/articles/responsive-web-design/
-* http://www.lukew.com/ff/entry.asp?933
+* This Is Responsive: http://bradfrost.github.com/this-is-responsive/
+* Responsive Web Design and Mobile Context: http://www.cloudfour.com/weekend-reading-responsive-web-design-and-mobile-context/
+* Responsive Web Design Techniques, Tools and Design Strategies: http://www.smashingmagazine.com/2011/07/22/responsive-web-design-techniques-tools-and-design-strategies/
+* Where are the Mobile First Responsive Web Designs?: http://www.cloudfour.com/where-are-the-mobile-first-responsive-web-designs/
+* Techniques For Gracefully Degrading Media Queries: http://coding.smashingmagazine.com/2011/08/10/techniques-for-gracefully-degrading-media-queries/
+* Mobile Matrices: https://github.com/h5bp/mobile-boilerplate/wiki/Mobile-Matrices
+* Responsive Web Design: What It Is and How To Use It: http://coding.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/
+* The ultimate responsive web design roundup: http://www.webdesignerdepot.com/2011/09/the-ultimate-responsive-web-design-roundup/
+* Windows mobile media queries: http://adactio.com/journal/4494/
+* Responsive enhancement: http://adactio.com/journal/1700/
+* One web: http://adactio.com/journal/1716/
+* Re-tabulate: http://adactio.com/journal/4780/
+* Ethan Marcotte's 20 favourite responsive sites: http://www.netmagazine.com/features/ethan-marcottes-20-favourite-responsive-sites
+* Pragmatic responsive design: http://www.slideshare.net/yiibu/pragmatic-responsive-design 
+* Building a Responsive, Future-Friendly Web for Everyone: http://www.webmonkey.com/2012/01/building-a-responsive-future-friendly-web-for-everyone/
+* Notes to an Agency Starting Their First Responsive Web Project: http://css-tricks.com/notes-agency-starting-their-first-responsive-web-project/
+* Setting a Performance Budget: http://timkadlec.com/2013/01/setting-a-performance-budget/
+* Responsive Web Design (A Book Apart book): http://www.abookapart.com/products/responsive-web-design
+* Adaptive Web Design (Easy Readers book): http://easy-readers.net/
+* Responsive Web Design (A List Apart article): http://www.alistapart.com/articles/responsive-web-design/
+
+### Mobile First
+
+* Mobile First: http://www.lukew.com/ff/entry.asp?933
+* Multi-Device Web Design: An Evolution: http://www.lukew.com/ff/entry.asp?1436
+* The Multi-Size Web: http://bagcheck.com/bag/4986-the-multi-size-web
 
 ### Media Queries
 
@@ -176,52 +176,44 @@ cleaning up is still required. This list is a living document, obviously ;).
 
 ### Fluid Grids
 
-* http://dbushell.com/2013/03/19/on-responsive-layout-and-grids/
+* On Responsive Layout and Grids: http://dbushell.com/2013/03/19/on-responsive-layout-and-grids/
 * Fluid grid: http://akikoo.github.com/Fluid-Grid/
 * The Semantic Grid: http://semantic.gs/
 * Trevor Davis' Sass & Compass Grid: http://viget.com/inspire/building-a-nested-responsive-grid-with-sass-compass
 
-### Fluid/Responsive Images/Icons
+### Fluid & Responsive Images & Icons and Tools
 
-* http://filamentgroup.com/lab/responsive_images_experimenting_with_context_aware_image_sizing/
-* http://adaptive-images.com/ 
-* http://blog.andyhume.net/content-aware-responsive-images
-* http://mattwilcox.net/archive/entry/id/1053/
-* https://github.com/ahume/Responsive-Images
-* http://staffanstorp.se/
-* Image optimization: ImageAlpha http://pngmini.com/
-* http://imageoptim.com/
-* Grunticon: http://filamentgroup.com/lab/grunticon/
-* http://unstoppablerobotninja.com/entry/fluid-images/
-* http://blog.cloudfour.com/responsive-imgs/
-* http://www.cloudfour.com/responsive-imgs-part-2/
-* http://blog.cloudfour.com/responsive-imgs-part-3-future-of-the-img-tag/
-
+* Filament Group's Responsive Images: Experimenting with Context-Aware Image Sizing: http://filamentgroup.com/lab/responsive_images_experimenting_with_context_aware_image_sizing/
+* Responsive Images (Andy Hume's fork of Filament Group's Responsive Images): https://github.com/ahume/Responsive-Images
+* Adaptive Images: http://adaptive-images.com/ 
+* Content aware responsive images: http://blog.andyhume.net/content-aware-responsive-images
+* Responsive &lt;img&gt; elements in HTML, for Responsive Designs http://mattwilcox.net/archive/entry/id/1053/
+* ImageAlpha: http://pngmini.com/
+* ImageOptim: http://imageoptim.com/
+* Grunticon: A Grunt.js plugin for managing and delivering sharp icons to all devices: http://filamentgroup.com/lab/grunticon/
+* Fluid Images: http://unstoppablerobotninja.com/entry/fluid-images/
+* Responsive IMGs Part 1: http://blog.cloudfour.com/responsive-imgs/
+* Responsive IMGs Part 2 — In-depth Look at Techniques: http://www.cloudfour.com/responsive-imgs-part-2/
+* Responsive IMGs Part 3 — Future of the IMG Tag: http://blog.cloudfour.com/responsive-imgs-part-3-future-of-the-img-tag/
 
 ### Fluid/Responsive Videos
 
-* http://fitvidsjs.com/
-* http://webdesignerwall.com/tutorials/css-elastic-videos
+* FitVids.js: http://fitvidsjs.com/
+* Elastic Videos: http://webdesignerwall.com/tutorials/css-elastic-videos
 
 ### Responsive Tools
 
-* http://whatsmybrowsersize.com/
-* http://mqtest.io/
-* http://mediaqueriestest.com/
-* http://patternlab.bradfrostweb.com/
-* http://www.benjaminkeen.com/open-source-projects/smaller-projects/responsive-design-bookmarklet/
-* http://www.jordanm.co.uk/palmreader
-* http://bradfrostweb.com/demo/ish/
-
-### Mobile First
-
-* http://bagcheck.com/bag/4986-the-multi-size-web
-* http://mattkersley.com/responsive/?stuffandnonsense.co.uk/projects/320andup
-* http://responsivepx.com/
-* http://quirktools.com/screenfly/
-* http://www.bostonglobe.com/
-* http://www.lukew.com/ff/entry.asp?1436 
-* http://globalmoxie.com/blog/making-of-people-mobile.shtml 
+* What's My Browser Size?: http://whatsmybrowsersize.com/
+* MQtest.io (a tool to help identify which media queries your device responds to): http://mqtest.io/
+* Media Queries Test: http://mediaqueriestest.com/
+* Responsive Design bookmarklet: http://www.benjaminkeen.com/open-source-projects/smaller-projects/responsive-design-bookmarklet/
+* Palm Reader: http://www.jordanm.co.uk/palmreader
+* ish viewport resizer (Brad Frost): http://bradfrostweb.com/demo/ish/
+* Viewport resizer (Matt Kersley): http://mattkersley.com/responsive/
+* Viewport resizer (responsivepx): http://responsivepx.com/
+* Viewport resizer (screenfly): http://quirktools.com/screenfly/
+* Atomic Design: http://bradfrostweb.com/blog/post/atomic-web-design/
+* Pattern Lab: http://patternlab.bradfrostweb.com/
 
 
 ## JavaScript and Generic Development Resources
