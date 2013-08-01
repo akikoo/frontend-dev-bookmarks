@@ -94,53 +94,43 @@ cleaning up is still required. This list is a living document, obviously ;).
 
 ## CSS 
 
-### Generic
+### Generic & Tools
 
+* Normalize.css: http://necolas.github.io/normalize.css/
+* Sass: http://sass-lang.com/
+* Sass Toolkit: https://github.com/davidrapson/scss-toolkit
+* "Mobile first" CSS and getting Sass to help with legacy IE: http://nicolasgallagher.com/mobile-first-css-sass-and-ie/
+* Sass with legacy IE: http://jakearchibald.github.com/sass-ie/
+* LESS: http://lesscss.org/
+* Universal IE6 CSS: http://code.google.com/p/universal-ie6-css/
 * Don't use IDs in CSS selectors?: http://oli.jp/2011/ids/
-* http://lea.verou.me/css3patterns/
-* http://smacss.com/
-* http://oocss.org/
-* http://sass-lang.com/
-* https://github.com/davidrapson/scss-toolkit
-* http://jakearchibald.github.com/sass-ie/
-* http://lesscss.org/
-* http://oli.jp/2011/ids/
-* http://code.google.com/p/universal-ie6-css/
-* https://github.com/necolas/normalize.css
-
-
-### Media Queries
-
-* http://forabeautifulweb.com/blog/about/hardboiled_css3_media_queries/
-* http://stuffandnonsense.co.uk/blog/about/proportional_leading_with_css3_media_queries/
-* http://www.blog.highub.com/mobile-2/revisit-hardboiled-css3-media-queries/
-* http://css-tricks.com/6731-css-media-queries/
-* http://www.quirksmode.org/blog/archives/2010/08/combining_media.html
-* http://www.slideshare.net/bryanrieger/rethinking-the-mobile-web-by-yiibu
-* http://www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/
-* http://www.broken-links.com/2011/02/21/using-media-queries-in-the-real-world/
+* CSS3 Patterns Gallery: http://lea.verou.me/css3patterns/
 
 ### Architecture
 
-* http://engineering.appfolio.com/2012/11/16/css-architecture/
-* http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
-* “Mobile first” CSS and getting Sass to help with legacy IE: http://nicolasgallagher.com/mobile-first-css-sass-and-ie/
+* SMACSS: http://smacss.com/
+* OOCSS: http://oocss.org/
+* BEM: http://bem.info/
+* CSS Architecture: http://engineering.appfolio.com/2012/11/16/css-architecture/
+* About HTML semantics and front-end architecture: http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 
 ### CSS Guidelines
 
-https://github.com/csswizardry/CSS-Guidelines
+* Harry Roberts' general CSS notes, advice and guidelines: https://github.com/csswizardry/CSS-Guidelines
 
 
 ## Starter Templates and Boilerplates
 
 * HTML5 Boilerplate: http://html5boilerplate.com
 * HTML5 Mobile Boilerplate: http://html5boilerplate.com/mobile
-* 320AndUp: http://forabeautifulweb.com/blog/about/320_and_up/
+* 320AndUp: http://forabeautifulweb.com/blog/about/320_and_up/ (not maintained anymore)
+* Rock Hammer: http://malarkey.github.io/Rock-Hammer/
 * One Web Boilerplate: http://akikoo.github.io/one-web-boilerplate/
 * Backbone Boilerplate: https://github.com/tbranyen/backbone-boilerplate
 * ZURB Foundation: http://foundation.zurb.com/
 * Twitter Bootstrap: http://twitter.github.com/bootstrap/
 * Mezzoblue HTML5 Boilerplate: http://mezzoblue.com/archives/2011/01/31/boilerplate/
+* HTML5 base template: https://gist.github.com/akikoo/f8f9ccfe149244e8e72a
 
 
 ## Responsive Web Design Resources
@@ -166,7 +156,6 @@ https://github.com/csswizardry/CSS-Guidelines
 * http://www.netmagazine.com/features/ethan-marcottes-20-favourite-responsive-sites
 * http://www.slideshare.net/yiibu/pragmatic-responsive-design 
 * http://www.webmonkey.com/2012/01/building-a-responsive-future-friendly-web-for-everyone/
-* http://zomigi.com/blog/essential-considerations-for-crafting-quality-media-queries/
 * http://css-tricks.com/notes-agency-starting-their-first-responsive-web-project/
 * http://timkadlec.com/2013/01/setting-a-performance-budget/
 * http://bradfrost.github.com/this-is-responsive/
@@ -174,6 +163,16 @@ https://github.com/csswizardry/CSS-Guidelines
 * http://easy-readers.net/
 * http://www.alistapart.com/articles/responsive-web-design/
 * http://www.lukew.com/ff/entry.asp?933
+
+### Media Queries
+
+* Essential considerations for crafting quality media queries: http://zomigi.com/blog/essential-considerations-for-crafting-quality-media-queries/
+* Proportional leading with CSS3 Media Queries: http://stuffandnonsense.co.uk/blog/about/proportional_leading_with_css3_media_queries/
+* Revisit Hardboiled CSS3 Media Queries: http://www.blog.highub.com/mobile-2/revisit-hardboiled-css3-media-queries/
+* CSS Media Queries & Using Available Space: http://css-tricks.com/6731-css-media-queries/
+* Combining media queries and JavaScript: http://www.quirksmode.org/blog/archives/2010/08/combining_media.html
+* Rethinking the Mobile Web: http://www.slideshare.net/bryanrieger/rethinking-the-mobile-web-by-yiibu
+* Using Media Queries in the Real World: http://www.broken-links.com/2011/02/21/using-media-queries-in-the-real-world/
 
 ### Fluid Grids
 
