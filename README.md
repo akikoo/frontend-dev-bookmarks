@@ -177,7 +177,7 @@ cleaning up is still required. This list is a living document, obviously ;).
 ### Fluid Grids
 
 * On Responsive Layout and Grids: http://dbushell.com/2013/03/19/on-responsive-layout-and-grids/
-* Fluid grid: http://akikoo.github.com/Fluid-Grid/
+* Fluid grid with Sass/LESS: http://akikoo.github.com/Fluid-Grid/
 * The Semantic Grid: http://semantic.gs/
 * Trevor Davis' Sass & Compass Grid: http://viget.com/inspire/building-a-nested-responsive-grid-with-sass-compass
 
@@ -208,10 +208,12 @@ cleaning up is still required. This list is a living document, obviously ;).
 * Media Queries Test: http://mediaqueriestest.com/
 * Responsive Design bookmarklet: http://www.benjaminkeen.com/open-source-projects/smaller-projects/responsive-design-bookmarklet/
 * Palm Reader: http://www.jordanm.co.uk/palmreader
-* ish viewport resizer (Brad Frost): http://bradfrostweb.com/demo/ish/
-* Viewport resizer (Matt Kersley): http://mattkersley.com/responsive/
-* Viewport resizer (responsivepx): http://responsivepx.com/
-* Viewport resizer (screenfly): http://quirktools.com/screenfly/
+* Viewport resizer (ish by Brad Frost): http://bradfrostweb.com/demo/ish/
+* Viewport resizer (by Matt Kersley): http://mattkersley.com/responsive/
+* Viewport resizer (responsivepx by Remy Sharp): http://responsivepx.com/
+* Viewport resizer (screenfly by Quirktools): http://quirktools.com/screenfly/
+* Viewport resizer (Responsinator): http://www.responsinator.com/
+* Simple responsive design test page: http://bricss.net/post/16538278376/simple-responsive-design-test-page
 * Atomic Design: http://bradfrostweb.com/blog/post/atomic-web-design/
 * Pattern Lab: http://patternlab.bradfrostweb.com/
 
@@ -220,7 +222,6 @@ cleaning up is still required. This list is a living document, obviously ;).
 
 ### JavaScript/Generic Front-end Dev Resources
 
-* JsFiddle, a playground for web developers: http://jsfiddle.net/
 * Mozilla JavaScript Guide: https://developer.mozilla.org/en/JavaScript/Guide
 * Rendering: repaint, reflow/relayout, restyle: http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/
 * The Node Beginner Book: http://nodebeginner.org/index.html
@@ -238,6 +239,7 @@ cleaning up is still required. This list is a living document, obviously ;).
 * https://github.com/ryanfitzer/Example-RequireJS-jQuery-Project
 * https://github.com/jrburke/almond
 * https://github.com/ftlabs/fastclick
+* microjs: http://microjs.com/
 
 ### JavaScript Style Guides
 
@@ -296,44 +298,36 @@ the same LAN, see these:
 Setting that up enables you to develop locally but test on any device connected 
 to the same network.
 
-* Remote Preview: https://dl.dropbox.com/u/1300176/www/remote-preview/index.html 
-* Mobitest: http://mobitest.akamai.com/m/index.cgi 
-* Media query bookmarklet: http://seesparkbox.com/foundry/media_query_bookmarklet
-* Mobile perf bookmarklet: http://stevesouders.com/mobileperf/mobileperfbkm.php 
-
 ### Mobile Emulator Testing
 
-http://www.456bereastreet.com/archive/201108/testing_on_mobile_devices_without_the_hardware/
-http://www.mobilexweb.com/emulators
+* Testing on mobile devices without the hardware: http://www.456bereastreet.com/archive/201108/testing_on_mobile_devices_without_the_hardware/
+* Mobile Emulators & Simulators: The Ultimate Guide: http://www.mobilexweb.com/emulators
 
 ### Various Other Testing Tools
 
-* http://www.webpagetest.org/
-* http://mattkersley.com/responsive/?stuffandnonsense.co.uk/projects/320andup
-* http://bricss.net/post/16538278376/simple-responsive-design-test-page
-* http://www.benjaminkeen.com/misc/bricss/
-* Mobile online apps testing: http://www.webdesignerdepot.com/2011/10/8-popular-online-apps-to-test-the-mobile-version-of-your-site/
-* Opera Mobile: http://www.opera.com/developer/tools/mini/
-* http://www.vodori.com/blog/phantom-limb.html
-* http://www.responsinator.com/
-* http://www.benjaminkeen.com/open-source-projects/smaller-projects/responsive-design-bookmarklet/
+* Remote Preview: http://viljamis.com/blog/2012/remote-preview/
+* Akamai Mobitest (Mobile Performance Testing): http://mobitest.akamai.com/m/index.cgi 
+* Media Query bookmarklet: http://seesparkbox.com/foundry/media_query_bookmarklet
+* Mobile Perf bookmarklet: http://stevesouders.com/mobileperf/mobileperfbkm.php 
+* WebPagetest (Website Performance and Optimization Test): http://www.webpagetest.org/
+* 8 Popular online apps to test the mobile version of your site: http://www.webdesignerdepot.com/2011/10/8-popular-online-apps-to-test-the-mobile-version-of-your-site/
+* Opera Mini simulator: http://www.opera.com/developer/opera-mini-simulator
+* Phantom Limb: http://www.vodori.com/blog/phantom-limb.html
 
-### What's Supported? 
+### What's Supported? (Compatibility Tables)
 
-* http://microjs.com/
-* http://caniuse.com/
-* http://mobilehtml5.org/
-* http://www.markus-falk.com/mobile-frameworks-comparison-chart/
-* http://html5please.us/
-* http://onmobile.iwanttouse.com/
+* Can I use: http://caniuse.com/
+* I want to use (powered by data from caniuse.com): http://onmobile.iwanttouse.com/
+* Mobile Frameworks Comparison Chart: http://www.markus-falk.com/mobile-frameworks-comparison-chart/
+* HTML5 Please: http://html5please.us/
 * HTML5 compatibility on mobile and tablet browsers: http://mobilehtml5.org/
-* Events compatibility table: http://www.quirksmode.org/dom/events/
+* Event compatibility tables: http://www.quirksmode.org/dom/events/
 
 ### Code Sharing Tools
 
-* http://jsfiddle.net/
-* Live code share: http://codeshare.io/GdOG4
-* http://codepen.io/
+* JsFiddle: http://jsfiddle.net/
+* CodeShare (live code share): http://codeshare.io/
+* CodePen: http://codepen.io/
 
 ### Workflow and Automated Unit Testing
 
