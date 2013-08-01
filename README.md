@@ -23,6 +23,7 @@ This is a living document (no shit!).
 * The Paciello Group Blog: http://www.paciellogroup.com/blog/
 * HTML5 Accessibility: http://html5accessibility.com/
 * 7 web accessibility myths: http://www.nomensa.com/blog/2012/7-web-accessibility-myths-2/
+* The Accessibility Project: http://a11yproject.com/
 
 ### Web Content Accessibility Guidelines (WCAG 2.0)
 
@@ -182,6 +183,7 @@ This is a living document (no shit!).
 * Case Study: Betting on a fully responsive web application: http://blog.14islands.com/post/52546836134/case-study-betting-on-a-fully-responsive-web
 * Viewport Sizes: http://viewportsizes.com/
 * Build a responsive site in a week (tutorial in five parts, this is part 1: designing responsively): http://www.netmagazine.com/tutorials/build-responsive-site-week-designing-responsively-part-1
+* Responsive Design Newsletter: http://responsivedesignweekly.com/
 
 ### Responsive Design Methodologies
 
@@ -277,6 +279,8 @@ This is a living document (no shit!).
 * Simple responsive design test page: http://bricss.net/post/16538278376/simple-responsive-design-test-page
 * Pixel density tests: http://www.matanich.com/examples/pixel-density-tests/
 * Embed Responsively: http://embedresponsively.com/
+* Media Query bookmarklet: http://seesparkbox.com/foundry/media_query_bookmarklet
+* Responsive Design Bookmarklet: http://responsive.victorcoulon.fr/
 
 
 ## JavaScript and Generic Development Resources
@@ -294,6 +298,7 @@ This is a living document (no shit!).
 * A Baseline for Front-end Developers: http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
 * Front-End Ops: http://www.smashingmagazine.com/2013/06/11/front-end-ops/
 * Building Super Fast Web Apps with PJAX: http://ntotten.com/2012/04/09/building-super-fast-web-apps-with-pjax/
+* How Basecamp Next got to be so damn fast without using much client-side UI: http://37signals.com/svn/posts/3112-how-basecamp-next-got-to-be-so-damn-fast-without-using-much-client-side-ui
 * Front-end performance for web designers and front-end developers: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
 * Common code problems solved using JavaScript: https://github.com/blakeembrey/code-problems
 * JavaScript The Right Way: http://jstherightway.com/
@@ -388,7 +393,6 @@ to the same network.
 
 * Remote Preview: http://viljamis.com/blog/2012/remote-preview/
 * Akamai Mobitest (Mobile Performance Testing): http://mobitest.akamai.com/m/index.cgi 
-* Media Query bookmarklet: http://seesparkbox.com/foundry/media_query_bookmarklet
 * Mobile Perf bookmarklet: http://stevesouders.com/mobileperf/mobileperfbkm.php 
 * WebPagetest (Website Performance and Optimization Test): http://www.webpagetest.org/
 * 8 Popular online apps to test the mobile version of your site: http://www.webdesignerdepot.com/2011/10/8-popular-online-apps-to-test-the-mobile-version-of-your-site/
