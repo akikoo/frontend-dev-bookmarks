@@ -177,6 +177,7 @@ This is a living document (no shit!).
 * Responsive Web Design (A List Apart article): http://www.alistapart.com/articles/responsive-web-design/
 * Common Patterns in Styleguides, Boilerplates and Pattern Libraries: http://blog.cloudfour.com/common-patterns/
 * Styleguide & Boilerplate Patterns (linked from the article above): https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0
+* The Pitfalls of UI Kits and Pattern Libraries: http://blog.cloudfour.com/pitfalls/
 * Building for Content Choreography using Flexbox: http://www.jordanm.co.uk/post/53179333055/building-for-content-choreography-using-flexbox
 * Responsive Design Workflow (book by Stephen Hay): http://responsivedesignworkflow.com/
 * Responsive Data Table Roundup: http://css-tricks.com/responsive-data-table-roundup/
@@ -184,6 +185,9 @@ This is a living document (no shit!).
 * Viewport Sizes: http://viewportsizes.com/
 * Build a responsive site in a week (tutorial in five parts, this is part 1: designing responsively): http://www.netmagazine.com/tutorials/build-responsive-site-week-designing-responsively-part-1
 * Responsive Design Newsletter: http://responsivedesignweekly.com/
+* How BBC Fell in Love with Responsive Design: http://www.lukew.com/ff/entry.asp?1637
+* Responsive and Responsible: http://www.lukew.com/ff/entry.asp?1732
+* Responsive Retrofitting: http://webstandardssherpa.com/reviews/responsive-retrofitting
 
 ### Responsive Design Methodologies
 
@@ -277,11 +281,13 @@ This is a living document (no shit!).
 * Viewport resizer (responsivepx by Remy Sharp): http://responsivepx.com/
 * Viewport resizer (screenfly by Quirktools): http://quirktools.com/screenfly/
 * Viewport resizer (Responsinator): http://www.responsinator.com/
+* Viewport resizer (by Malte Wassermann): http://lab.maltewassermann.com/viewport-resizer/
 * Simple responsive design test page: http://bricss.net/post/16538278376/simple-responsive-design-test-page
 * Pixel density tests: http://www.matanich.com/examples/pixel-density-tests/
 * Embed Responsively: http://embedresponsively.com/
 * Media Query bookmarklet: http://seesparkbox.com/foundry/media_query_bookmarklet
 * Responsive Design Bookmarklet: http://responsive.victorcoulon.fr/
+* Techniques for mobile and responsive cross-browser testing: An Envato case study.: http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/
 
 
 ## JavaScript and Generic Development Resources
@@ -306,6 +312,8 @@ This is a living document (no shit!).
 * The JavaScript Cookbook (a site for common JavaScript problems and solutions): http://javascriptcookbook.com/
 * Chrome DevTools Revolutions 2013: http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/
 * My workflow v3: full coding stack (Remy Sharp): http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/
+* An Ajax-Include Pattern for Modular Content: http://filamentgroup.com/lab/ajax_includes_modular_content/
+* Surefire DOM Element Insertion (Paul Irish): http://www.paulirish.com/2011/surefire-dom-element-insertion/
 
 ### Touch
 
@@ -399,6 +407,7 @@ to the same network.
 * 8 Popular online apps to test the mobile version of your site: http://www.webdesignerdepot.com/2011/10/8-popular-online-apps-to-test-the-mobile-version-of-your-site/
 * Opera Mini simulator: http://www.opera.com/developer/opera-mini-simulator
 * Phantom Limb: http://www.vodori.com/blog/phantom-limb.html
+* Ghostlab (synchronized testing for web and mobile): http://vanamco.com/ghostlab/
 
 ### What's Supported? (Compatibility Tables)
 
