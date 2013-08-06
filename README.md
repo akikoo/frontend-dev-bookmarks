@@ -24,6 +24,7 @@ This is a living document (no shit!).
 * HTML5 Accessibility: http://html5accessibility.com/
 * 7 web accessibility myths: http://www.nomensa.com/blog/2012/7-web-accessibility-myths-2/
 * The Accessibility Project: http://a11yproject.com/
+* BBC Accessibility Guidelines: http://www.bbc.co.uk/guidelines/futuremedia/accessibility/
 
 ### Web Content Accessibility Guidelines (WCAG 2.0)
 
@@ -51,6 +52,7 @@ This is a living document (no shit!).
 * Resources for Mobile Accessibility Guidelines: http://www.iheni.com/mobile-accessibility-guidelines/
 * Mobile Web Best Practices 1.0: http://www.w3.org/TR/mobile-bp/
 * Relationship between Mobile Web Best Practices (MWBP) and Web Content Accessibility Guidelines (WCAG): http://www.w3.org/TR/mwbp-wcag/
+* BBC Mobile Accessibility Guidelines: http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile_access.shtml
 
 ### Accessibility Libraries/Helpers
 * Keyboard accessibility: http://davidwalsh.name/keyboard-shortcuts
@@ -112,6 +114,7 @@ This is a living document (no shit!).
 * Universal IE6 CSS: http://code.google.com/p/universal-ie6-css/
 * Don't use IDs in CSS selectors?: http://oli.jp/2011/ids/
 * CSS3 Patterns Gallery: http://lea.verou.me/css3patterns/
+* Effeckt.css: Performant CSS transitions & animations: http://h5bp.github.io/Effeckt.css/dist/
 
 ### Architecture
 
@@ -123,6 +126,7 @@ This is a living document (no shit!).
 * CSS Architecture: http://engineering.appfolio.com/2012/11/16/css-architecture/
 * About HTML semantics and front-end architecture: http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 * inuit.css (Sass-based, BEM, OOCSS framework): http://inuitcss.com/
+* Taking Sass to the Next Level with SMURF and @extend : http://railslove.com/blog/2012/11/09/taking-sass-to-the-next-level-with-smurf-and-extend
 
 ### CSS Guidelines, Style Guides & Patterns
 
