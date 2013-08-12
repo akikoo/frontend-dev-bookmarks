@@ -202,6 +202,7 @@ This is a living document (no shit!).
 * How BBC Fell in Love with Responsive Design: http://www.lukew.com/ff/entry.asp?1637
 * Responsive and Responsible: http://www.lukew.com/ff/entry.asp?1732
 * Responsive Retrofitting: http://webstandardssherpa.com/reviews/responsive-retrofitting
+* The top 25 responsive sites of 2012: http://www.netmagazine.com/features/top-25-responsive-sites-2012
 
 ### Responsive Design Methodologies
 
@@ -469,3 +470,8 @@ to the same network.
 * Progressive enhancement is still important: http://jakearchibald.com/2013/progressive-enhancement-still-important/
 * How Developers Stop Learning: Rise of the Expert Beginner: http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner
 * Burnout: http://www.onishiweb.co.uk/2012/09/burnout/
+
+
+## Inspiring Conference Talks
+
+* The top 20 web conference talks of 2012: http://www.netmagazine.com/features/top-20-web-conference-talks-2012
