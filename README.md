@@ -107,8 +107,6 @@ This is a living document (no shit!).
 * Normalize.css: http://necolas.github.io/normalize.css/
 * Sass: http://sass-lang.com/
 * Sass Toolkit: https://github.com/davidrapson/scss-toolkit
-* "Mobile first" CSS and getting Sass to help with legacy IE: http://nicolasgallagher.com/mobile-first-css-sass-and-ie/
-* Sass with legacy IE: http://jakearchibald.github.com/sass-ie/
 * Compass: http://compass-style.org/
 * LESS: http://lesscss.org/
 * Universal IE6 CSS: http://code.google.com/p/universal-ie6-css/
@@ -133,6 +131,8 @@ This is a living document (no shit!).
 * MindBEMding – getting your head 'round BEM syntax: http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 * CSS Architecture: http://engineering.appfolio.com/2012/11/16/css-architecture/
 * About HTML semantics and front-end architecture: http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
+* "Mobile first" CSS and getting Sass to help with legacy IE: http://nicolasgallagher.com/mobile-first-css-sass-and-ie/
+* Sass with legacy IE: http://jakearchibald.github.com/sass-ie/
 * inuit.css (Sass-based, BEM, OOCSS framework): http://inuitcss.com/
 * Taking Sass to the Next Level with SMURF and @extend : http://railslove.com/blog/2012/11/09/taking-sass-to-the-next-level-with-smurf-and-extend
 * Modular CSS, an example: http://thesassway.com/advanced/modular-css-an-example
