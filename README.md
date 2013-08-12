@@ -115,18 +115,27 @@ This is a living document (no shit!).
 * Don't use IDs in CSS selectors?: http://oli.jp/2011/ids/
 * CSS3 Patterns Gallery: http://lea.verou.me/css3patterns/
 * Effeckt.css: Performant CSS transitions & animations: http://h5bp.github.io/Effeckt.css/dist/
+* Absolute Centering in CSS: http://codepen.io/shshaw/full/gEiDt
+* An Introduction to CSS3 Transitions: http://www.css3.info/preview/css3-transitions/
+* Ceaser, CSS Easing Animation Tool: http://matthewlein.com/ceaser/
+* cubic-bezier.com: http://cubic-bezier.com/
+* Easing Functions Cheat Sheet: http://easings.net/
+* CSS3 Transitions, Transforms, Animation, Filters and more!: http://css3.bradshawenterprises.com/
+* All you need to know about CSS Transitions: http://blog.alexmaccaw.com/css-transitions
 
 ### Architecture
 
 * SMACSS: http://smacss.com/
 * OOCSS: http://oocss.org/
 * The media object saves hundreds of lines of code: http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/
+* The flag object: http://csswizardry.com/2013/05/the-flag-object/
 * BEM: http://bem.info/
 * MindBEMding – getting your head 'round BEM syntax: http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 * CSS Architecture: http://engineering.appfolio.com/2012/11/16/css-architecture/
 * About HTML semantics and front-end architecture: http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 * inuit.css (Sass-based, BEM, OOCSS framework): http://inuitcss.com/
 * Taking Sass to the Next Level with SMURF and @extend : http://railslove.com/blog/2012/11/09/taking-sass-to-the-next-level-with-smurf-and-extend
+* Modular CSS, an example: http://thesassway.com/advanced/modular-css-an-example
 
 ### CSS Guidelines, Style Guides & Patterns
 
@@ -139,6 +148,7 @@ This is a living document (no shit!).
 * Pears: http://pea.rs/
 * Style Guide Boilerplate: http://brettjankord.com/projects/style-guide-boilerplate/
 * Creating Living Style Guides to Improve Performance: http://www.stubbornella.org/content/2013/06/05/creating-living-style-guides-to-improve-performance/
+* Design patterns: http://ui-patterns.com/patterns/
 
 ## Starter Templates, Boilerplates & Frameworks
 
@@ -270,8 +280,10 @@ This is a living document (no shit!).
 
 * Implementing Off-Canvas Navigation For A Responsive Website: http://coding.smashingmagazine.com/2013/01/15/off-canvas-navigation-for-responsive-website/
 * Responsive Nav: http://responsive-nav.com/
-* Responsive Navigation: http://responsivenavigation.net/
+* Adventures in Responsive Navigation: http://responsivenavigation.net/
 * Build a smart mobile navigation without hacks: http://www.netmagazine.com/tutorials/build-smart-mobile-navigation-without-hacks
+* Off Canvas, A Multi-Device Web Layout Pattern: http://jasonweaver.name/lab/offcanvas/
+* Responsive Navigation Patterns: http://bradfrostweb.com/blog/web/responsive-nav-patterns/
 
 ### Responsive Tools
 
@@ -292,6 +304,9 @@ This is a living document (no shit!).
 * Media Query bookmarklet: http://seesparkbox.com/foundry/media_query_bookmarklet
 * Responsive Design Bookmarklet: http://responsive.victorcoulon.fr/
 * Techniques for mobile and responsive cross-browser testing: An Envato case study.: http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/
+* PhantomJS: http://phantomjs.org/
+* CasperJS: http://casperjs.org/
+* Automatic Responsive screenshots creation with PhantomJS and CasperJS: https://gist.github.com/akikoo/6200960
 
 
 ## JavaScript and Generic Development Resources
@@ -318,6 +333,7 @@ This is a living document (no shit!).
 * My workflow v3: full coding stack (Remy Sharp): http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/
 * An Ajax-Include Pattern for Modular Content: http://filamentgroup.com/lab/ajax_includes_modular_content/
 * Surefire DOM Element Insertion (Paul Irish): http://www.paulirish.com/2011/surefire-dom-element-insertion/
+* Part 1: Backbone.js Deconstructed: http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed
 
 ### Touch
 
@@ -333,6 +349,8 @@ This is a living document (no shit!).
 * almond.js (a minimal AMD API implementation for use after optimized builds): https://github.com/jrburke/almond
 * fastclick (polyfill to remove click delays on browsers with touch UIs): https://github.com/ftlabs/fastclick
 * microjs: http://microjs.com/
+* lscache (a localStorage-based memcache-inspired client-side caching library): https://github.com/pamelafox/lscache
+* Normalized address bar hiding for iOS & Android: https://github.com/scottjehl/Hide-Address-Bar
 
 ### JavaScript Style Guides
 
