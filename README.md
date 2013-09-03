@@ -120,8 +120,9 @@ This is a living document (no shit!).
 * Easing Functions Cheat Sheet: http://easings.net/
 * CSS3 Transitions, Transforms, Animation, Filters and more!: http://css3.bradshawenterprises.com/
 * All you need to know about CSS Transitions: http://blog.alexmaccaw.com/css-transitions
+* CSS3 Animation Cheat Sheet: http://www.justinaguilar.com/animations/
 
-### Architecture
+### CSS Architecture
 
 * SMACSS: http://smacss.com/
 * OOCSS: http://oocss.org/
@@ -130,6 +131,7 @@ This is a living document (no shit!).
 * BEM: http://bem.info/
 * MindBEMding – getting your head 'round BEM syntax: http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 * CSS Architecture: http://engineering.appfolio.com/2012/11/16/css-architecture/
+* Decoupling Your HTML, CSS, and JavaScript: http://philipwalton.com/articles/decoupling-html-css-and-javascript/
 * About HTML semantics and front-end architecture: http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
 * "Mobile first" CSS and getting Sass to help with legacy IE: http://nicolasgallagher.com/mobile-first-css-sass-and-ie/
 * Sass with legacy IE: http://jakearchibald.github.com/sass-ie/
@@ -164,6 +166,7 @@ This is a living document (no shit!).
 * Mezzoblue HTML5 Boilerplate: http://mezzoblue.com/archives/2011/01/31/boilerplate/
 * HTML5 base template: https://gist.github.com/akikoo/f8f9ccfe149244e8e72a
 * Pure: http://purecss.io/
+* SouthStreet Progressive Enhancement Workflow: https://github.com/filamentgroup/southstreet
 
 
 ## Responsive Web Design Resources
@@ -203,6 +206,7 @@ This is a living document (no shit!).
 * Responsive and Responsible: http://www.lukew.com/ff/entry.asp?1732
 * Responsive Retrofitting: http://webstandardssherpa.com/reviews/responsive-retrofitting
 * The top 25 responsive sites of 2012: http://www.netmagazine.com/features/top-25-responsive-sites-2012
+* Responsive Web Design is Solid Gold: http://blog.cloudfour.com/responsive-web-design-is-solid-gold/
 
 ### Responsive Design Methodologies
 
@@ -286,6 +290,10 @@ This is a living document (no shit!).
 * Off Canvas, A Multi-Device Web Layout Pattern: http://jasonweaver.name/lab/offcanvas/
 * Responsive Navigation Patterns: http://bradfrostweb.com/blog/web/responsive-nav-patterns/
 
+### Responsive Tables
+
+* Responsive Tables: http://blog.easy-designs.net/archives/responsive-tables/
+
 ### Responsive Tools
 
 * What's My Browser Size?: http://whatsmybrowsersize.com/
@@ -336,6 +344,10 @@ This is a living document (no shit!).
 * Surefire DOM Element Insertion (Paul Irish): http://www.paulirish.com/2011/surefire-dom-element-insertion/
 * Part 1: Backbone.js Deconstructed: http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed
 
+### JavaScript Architecture
+
+* Deploying JavaScript Applications: http://alexsexton.com/blog/2013/03/deploying-javascript-applications/
+
 ### Touch
 
 * You Can't Detect A Touchscreen: http://www.stucox.com/blog/you-cant-detect-a-touchscreen/
@@ -352,6 +364,9 @@ This is a living document (no shit!).
 * microjs: http://microjs.com/
 * lscache (a localStorage-based memcache-inspired client-side caching library): https://github.com/pamelafox/lscache
 * Normalized address bar hiding for iOS & Android: https://github.com/scottjehl/Hide-Address-Bar
+* Bonzo - library agnostic, extensible DOM utility: https://github.com/ded/bonzo
+* Qwery - a compact, blazing fast CSS selector engine: https://github.com/ded/qwery
+* Reqwest - browser asynchronous http requests: https://github.com/runningskull/reqwest
 
 ### JavaScript Style Guides
 
@@ -376,6 +391,7 @@ This is a living document (no shit!).
 * A Farewell to CSS3 Gradients: http://designfestival.com/a-farewell-to-css3-gradients/
 * SVG Patterns Gallery: http://philbit.com/svgpatterns/
 * Using SVG: http://css-tricks.com/using-svg/
+* SVG Fallbacks: http://css-tricks.com/svg-fallbacks/
 * Splash Vector Graphics on your Responsive Site: http://www.html5rocks.com/en/tutorials/svg/mobile_fundamentals/
 * Using SVG graphics today: http://joshemerson.co.uk/blog/using-svg-graphics-today
 * SVG for Web: http://joshemerson.co.uk/blog/svg-for-web/
@@ -395,6 +411,11 @@ This is a living document (no shit!).
 ### SVG Editors
 
 * svg-edit: http://code.google.com/p/svg-edit/
+
+
+## Performance
+
+* Web Performance 101: http://www.webperformancetoday.com/2013/01/31/web-performance-101-developers/
 
 
 ## Quality Assurance & Testing 
@@ -446,6 +467,7 @@ to the same network.
 * JsFiddle: http://jsfiddle.net/
 * CodeShare (live code share): http://codeshare.io/
 * CodePen: http://codepen.io/
+* JS Bin: http://jsbin.com/
 
 ### Workflow and Automated Unit Testing
 
@@ -459,7 +481,7 @@ to the same network.
 * Documentation Tool: http://www.dexy.it/
 
 
-## Miscellaneous Required Reading:
+## Miscellaneous:
 
 * Hello, Adobe Edge!: http://www.brucelawson.co.uk/2011/hello-adobe-edge/
 * Apps vs the Web: http://mattgemmell.com/2011/07/22/apps-vs-the-web
@@ -470,7 +492,11 @@ to the same network.
 * Progressive enhancement is still important: http://jakearchibald.com/2013/progressive-enhancement-still-important/
 * How Developers Stop Learning: Rise of the Expert Beginner: http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner
 * Burnout: http://www.onishiweb.co.uk/2012/09/burnout/
-
+* Job Titles in the Web Industry: http://css-tricks.com/job-titles-in-the-web-industry/
+* Webapp: https://twitter.com/wilto/status/372080088898367488 ;)
+* By any other name: http://adactio.com/journal/6246/
+* Favicon cheat sheet: https://github.com/audreyr/favicon-cheat-sheet
+* Why Talented Creatives Are Leaving Your Shitty Agency: http://www.mobileinc.co.uk/2013/09/why-talented-creatives-are-leaving-your-shitty-agency/
 
 ## Inspiring Conference Talks
 
