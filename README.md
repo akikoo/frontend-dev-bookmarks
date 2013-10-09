@@ -25,6 +25,7 @@ This is a living document (no shit!).
 * 7 web accessibility myths: http://www.nomensa.com/blog/2012/7-web-accessibility-myths-2/
 * The Accessibility Project: http://a11yproject.com/
 * BBC Accessibility Guidelines: http://www.bbc.co.uk/guidelines/futuremedia/accessibility/
+* OpenAjax Accessibility Examples: http://oaa-accessibility.org/examples/
 
 ### Web Content Accessibility Guidelines (WCAG 2.0)
 
@@ -46,6 +47,7 @@ This is a living document (no shit!).
 * Code Talks: http://wiki.codetalks.org/wiki/index.php/Main_Page
 * Carousels and ARIA Tabs: http://www.webaxe.org/carousels-and-aria-tabs/
 * Tools & Code Examples for ARIA Development: http://www.webaxe.org/tools-code-examples-for-aria-development/
+* Web Accessibility tutorial: http://itstiredinhere.com/accessibility/
 
 ### Mobile Accessibility Best Practices
 
@@ -121,6 +123,7 @@ This is a living document (no shit!).
 * CSS3 Transitions, Transforms, Animation, Filters and more!: http://css3.bradshawenterprises.com/
 * All you need to know about CSS Transitions: http://blog.alexmaccaw.com/css-transitions
 * CSS3 Animation Cheat Sheet: http://www.justinaguilar.com/animations/
+* A visual guide to Sass & Compass Color Functions: http://jackiebalzer.com/color
 
 ### CSS Architecture
 
@@ -188,7 +191,6 @@ This is a living document (no shit!).
 * Pragmatic responsive design: http://www.slideshare.net/yiibu/pragmatic-responsive-design 
 * Building a Responsive, Future-Friendly Web for Everyone: http://www.webmonkey.com/2012/01/building-a-responsive-future-friendly-web-for-everyone/
 * Notes to an Agency Starting Their First Responsive Web Project: http://css-tricks.com/notes-agency-starting-their-first-responsive-web-project/
-* Setting a Performance Budget: http://timkadlec.com/2013/01/setting-a-performance-budget/
 * Responsive Web Design (A Book Apart book): http://www.abookapart.com/products/responsive-web-design
 * Adaptive Web Design (Easy Readers book): http://easy-readers.net/
 * Responsive Web Design (A List Apart article): http://www.alistapart.com/articles/responsive-web-design/
@@ -246,7 +248,7 @@ This is a living document (no shit!).
 * Selector Queries (adjust the layout of an HTML element based on its width): https://github.com/ahume/selector-queries/
 
 ### Fluid Grids
-
+    
 * On Responsive Layout and Grids: http://dbushell.com/2013/03/19/on-responsive-layout-and-grids/
 * Fluid grid with Sass/LESS: http://akikoo.github.com/Fluid-Grid/
 * The Semantic Grid: http://semantic.gs/
@@ -274,6 +276,8 @@ This is a living document (no shit!).
 * Responsible responsive images: http://adactio.com/journal/4997/
 * Simple Responsive Images With CSS Background Images: http://mobile.smashingmagazine.com/2013/07/22/simple-responsive-images-with-css-backgrounds/
 * Responsive & Retina Content Images Redux using Media Queries & a base64 spacer GIF: http://mattstow.com/responsive-and-retina-content-images-redux.html
+* Iconic, an open source icon set: http://somerandomdude.com/work/open-iconic/
+* Image Compression for Web Developers: http://www.html5rocks.com/en/tutorials/speed/img-compression/
 
 ### Fluid/Responsive Videos
 
@@ -293,6 +297,7 @@ This is a living document (no shit!).
 ### Responsive Tables
 
 * Responsive Tables: http://blog.easy-designs.net/archives/responsive-tables/
+* Picking a Responsive Tables Solution: http://blog.cloudfour.com/picking-responsive-tables-solution/
 
 ### Responsive Tools
 
@@ -334,7 +339,6 @@ This is a living document (no shit!).
 * Front-End Ops: http://www.smashingmagazine.com/2013/06/11/front-end-ops/
 * Building Super Fast Web Apps with PJAX: http://ntotten.com/2012/04/09/building-super-fast-web-apps-with-pjax/
 * How Basecamp Next got to be so damn fast without using much client-side UI: http://37signals.com/svn/posts/3112-how-basecamp-next-got-to-be-so-damn-fast-without-using-much-client-side-ui
-* Front-end performance for web designers and front-end developers: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
 * Common code problems solved using JavaScript: https://github.com/blakeembrey/code-problems
 * JavaScript The Right Way: http://jstherightway.com/
 * The JavaScript Cookbook (a site for common JavaScript problems and solutions): http://javascriptcookbook.com/
@@ -343,6 +347,9 @@ This is a living document (no shit!).
 * An Ajax-Include Pattern for Modular Content: http://filamentgroup.com/lab/ajax_includes_modular_content/
 * Surefire DOM Element Insertion (Paul Irish): http://www.paulirish.com/2011/surefire-dom-element-insertion/
 * Part 1: Backbone.js Deconstructed: http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed
+* Part 2: Backbone.js Deconstructed: http://tech.pro/tutorial/1476/part-2-backbonejs-deconstructed
+* Re-Learning Backbone.js: http://bardevblog.wordpress.com/2012/12/04/re-learning-backbone-js/
+* Enough with the JavaScript already!: http://www.slideshare.net/nzakas/enough-withthejavascriptalready
 
 ### JavaScript Architecture
 
@@ -371,6 +378,9 @@ This is a living document (no shit!).
 ### JavaScript Style Guides
 
 * Google JavaScript Style Guide: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+* Idiomatic JavaScript: https://github.com/rwaldron/idiomatic.js/
+* http://contribute.jquery.org/style-guide/js/
+* http://dojotoolkit.org/community/styleGuide
 
 ### HTML5 JavaScript APIs
 
@@ -416,6 +426,10 @@ This is a living document (no shit!).
 ## Performance
 
 * Web Performance 101: http://www.webperformancetoday.com/2013/01/31/web-performance-101-developers/
+* A Beginner's Guide to Perceived Performance: 4 Ways to Make Your Mobile Site Feel Like a Native App: http://www.mobify.com/blog/beginners-guide-to-perceived-performance/
+* Let's Make the Web Jank-free!: http://jankfree.org/
+* Setting a Performance Budget: http://timkadlec.com/2013/01/setting-a-performance-budget/
+* Front-end performance for web designers and front-end developers: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
 
 
 ## Quality Assurance & Testing 
@@ -452,6 +466,7 @@ to the same network.
 * Opera Mini simulator: http://www.opera.com/developer/opera-mini-simulator
 * Phantom Limb: http://www.vodori.com/blog/phantom-limb.html
 * Ghostlab (synchronized testing for web and mobile): http://vanamco.com/ghostlab/
+* modern.IE: http://www.modern.ie/
 
 ### What's Supported? (Compatibility Tables)
 
@@ -475,6 +490,7 @@ to the same network.
 * Testing Require.js code with Karma: https://github.com/kjbekkelund/karma-requirejs
 * Karma test runner for JavaScript: http://karma-runner.github.io/
 * Jasmine: http://pivotal.github.io/jasmine/
+* Testing Backbone applications with Jasmine and Sinon: http://tinnedfruit.com/2011/03/03/testing-backbone-apps-with-jasmine-sinon.html
 
 ### Documentation
 
@@ -497,6 +513,8 @@ to the same network.
 * By any other name: http://adactio.com/journal/6246/
 * Favicon cheat sheet: https://github.com/audreyr/favicon-cheat-sheet
 * Why Talented Creatives Are Leaving Your Shitty Agency: http://www.mobileinc.co.uk/2013/09/why-talented-creatives-are-leaving-your-shitty-agency/
+* On Progressive Enhancement: http://bradfrostweb.com/blog/post/on-progressive-enhancement/
+* WebPlatform.org: http://www.webplatform.org/
 
 ## Inspiring Conference Talks
 
