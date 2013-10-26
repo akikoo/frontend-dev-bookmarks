@@ -1,14 +1,14 @@
 Front-End Bookmarks
 ===================
 
-This is a collection of essential (or just useful/inspirational) Front-End 
-Development &amp; Accessibility bookmarks, frequently used in our daily work. 
+This is a collection of essential (or just useful/inspirational) Front-End
+Development &amp; Accessibility bookmarks, frequently used in our daily work.
 
-I try to keep this list generic (with a few exceptions), focusing on higher level 
-concepts instead, such as accessibility, architecture, performance, code quality, 
+I try to keep this list generic (with a few exceptions), focusing on higher level
+concepts instead, such as accessibility, architecture, performance, code quality,
 workflow and best practices.
 
-This is a living document (no shit!). 
+This is a living document (no shit!).
 
 
 ## Accessibility Resources
@@ -102,7 +102,7 @@ This is a living document (no shit!).
 * Accessible HTML5 Media Players: http://www.webaxe.org/accessible-html5-media-players-and-more/
 
 
-## CSS 
+## CSS
 
 ### Generic & Tools
 
@@ -141,6 +141,8 @@ This is a living document (no shit!).
 * inuit.css (Sass-based, BEM, OOCSS framework): http://inuitcss.com/
 * Taking Sass to the Next Level with SMURF and @extend : http://railslove.com/blog/2012/11/09/taking-sass-to-the-next-level-with-smurf-and-extend
 * Modular CSS, an example: http://thesassway.com/advanced/modular-css-an-example
+* Objects in Space: https://medium.com/objects-in-space/f6f404727
+* How to Scale and Maintain Legacy CSS with Sass and SMACSS: http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/
 
 ### CSS Guidelines, Style Guides & Patterns
 
@@ -154,6 +156,8 @@ This is a living document (no shit!).
 * Style Guide Boilerplate: http://brettjankord.com/projects/style-guide-boilerplate/
 * Creating Living Style Guides to Improve Performance: http://www.stubbornella.org/content/2013/06/05/creating-living-style-guides-to-improve-performance/
 * Design patterns: http://ui-patterns.com/patterns/
+* A More Flexible Development Framework: http://www.colmtuite.com/a-more-flexible-development-framework
+* KSS, a methodology for documenting CSS and generating styleguides: https://github.com/kneath/kss
 
 ## Starter Templates, Boilerplates & Frameworks
 
@@ -174,7 +178,7 @@ This is a living document (no shit!).
 
 ## Responsive Web Design Resources
 
-### Generic 
+### Generic
 
 * This Is Responsive: http://bradfrost.github.com/this-is-responsive/
 * Responsive Web Design and Mobile Context: http://www.cloudfour.com/weekend-reading-responsive-web-design-and-mobile-context/
@@ -188,7 +192,7 @@ This is a living document (no shit!).
 * One web: http://adactio.com/journal/1716/
 * Re-tabulate: http://adactio.com/journal/4780/
 * Ethan Marcotte's 20 favourite responsive sites: http://www.netmagazine.com/features/ethan-marcottes-20-favourite-responsive-sites
-* Pragmatic responsive design: http://www.slideshare.net/yiibu/pragmatic-responsive-design 
+* Pragmatic responsive design: http://www.slideshare.net/yiibu/pragmatic-responsive-design
 * Building a Responsive, Future-Friendly Web for Everyone: http://www.webmonkey.com/2012/01/building-a-responsive-future-friendly-web-for-everyone/
 * Notes to an Agency Starting Their First Responsive Web Project: http://css-tricks.com/notes-agency-starting-their-first-responsive-web-project/
 * Responsive Web Design (A Book Apart book): http://www.abookapart.com/products/responsive-web-design
@@ -248,7 +252,7 @@ This is a living document (no shit!).
 * Selector Queries (adjust the layout of an HTML element based on its width): https://github.com/ahume/selector-queries/
 
 ### Fluid Grids
-    
+
 * On Responsive Layout and Grids: http://dbushell.com/2013/03/19/on-responsive-layout-and-grids/
 * Fluid grid with Sass/LESS: http://akikoo.github.com/Fluid-Grid/
 * The Semantic Grid: http://semantic.gs/
@@ -258,7 +262,7 @@ This is a living document (no shit!).
 
 * Filament Group's Responsive Images: Experimenting with Context-Aware Image Sizing: http://filamentgroup.com/lab/responsive_images_experimenting_with_context_aware_image_sizing/
 * Responsive Images (Andy Hume's fork of Filament Group's Responsive Images): https://github.com/ahume/Responsive-Images
-* Adaptive Images: http://adaptive-images.com/ 
+* Adaptive Images: http://adaptive-images.com/
 * Content aware responsive images: http://blog.andyhume.net/content-aware-responsive-images
 * Responsive &lt;img&gt; elements in HTML, for Responsive Designs: http://mattwilcox.net/archive/entry/id/1053/
 * ImageAlpha: http://pngmini.com/
@@ -270,7 +274,7 @@ This is a living document (no shit!).
 * Responsive IMGs Part 3 — Future of the IMG Tag: http://blog.cloudfour.com/responsive-imgs-part-3-future-of-the-img-tag/
 * The Big List of Flat Icons & Icon Fonts: http://css-tricks.com/flat-icons-icon-fonts/
 * IcoMoon: http://icomoon.io/app/
-* Responsive Images Chart: https://docs.google.com/spreadsheet/ccc?key=0Al0lI17fOl9DdDgxTFVoRzFpV3VCdHk2NTBmdVI2OXc#gid=0 
+* Responsive Images Chart: https://docs.google.com/spreadsheet/ccc?key=0Al0lI17fOl9DdDgxTFVoRzFpV3VCdHk2NTBmdVI2OXc#gid=0
 * Choosing A Responsive Image Solution: http://mobile.smashingmagazine.com/2013/07/08/choosing-a-responsive-image-solution/
 * picturefill: https://github.com/scottjehl/picturefill
 * Responsible responsive images: http://adactio.com/journal/4997/
@@ -278,6 +282,7 @@ This is a living document (no shit!).
 * Responsive & Retina Content Images Redux using Media Queries & a base64 spacer GIF: http://mattstow.com/responsive-and-retina-content-images-redux.html
 * Iconic, an open source icon set: http://somerandomdude.com/work/open-iconic/
 * Image Compression for Web Developers: http://www.html5rocks.com/en/tutorials/speed/img-compression/
+* Mobify.js Image Resizer: http://www.mobify.com/mobifyjs/v2/docs/image-resizer/
 
 ### Fluid/Responsive Videos
 
@@ -353,6 +358,8 @@ This is a living document (no shit!).
 
 ### JavaScript Architecture
 
+* Creating a REST API using Node.js, Express, and MongoDB: http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/
+* Develop a RESTful API Using Node.js With Express and Mongoose: http://pixelhandler.com/blog/2012/02/09/develop-a-restful-api-using-node-js-with-express-and-mongoose/
 * Deploying JavaScript Applications: http://alexsexton.com/blog/2013/03/deploying-javascript-applications/
 
 ### Touch
@@ -374,6 +381,8 @@ This is a living document (no shit!).
 * Bonzo - library agnostic, extensible DOM utility: https://github.com/ded/bonzo
 * Qwery - a compact, blazing fast CSS selector engine: https://github.com/ded/qwery
 * Reqwest - browser asynchronous http requests: https://github.com/runningskull/reqwest
+* Mousetrap, a library for handling keyboard shortcuts in Javascript: http://craig.is/killing/mice
+* Applicative Programming In JavaScript With lodash.js: http://tech.pro/tutorial/1611/functional-javascript
 
 ### JavaScript Style Guides
 
@@ -417,6 +426,7 @@ This is a living document (no shit!).
 * Convert SVG into Raphaël: http://www.atirip.com/convert-svg-into-raphael
 * ScaleRaphaël: http://www.shapevent.com/scaleraphael/
 * jVectorMap: http://jvectormap.owl-hollow.net/
+* Snap.svg: http://snapsvg.io/
 
 ### SVG Editors
 
@@ -432,7 +442,7 @@ This is a living document (no shit!).
 * Front-end performance for web designers and front-end developers: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
 
 
-## Quality Assurance & Testing 
+## Quality Assurance & Testing
 
 ### Front-end Code Quality Tools
 
@@ -442,13 +452,13 @@ This is a living document (no shit!).
 
 ### Cross-Device Testing
 
-To connect to your local Apache virtualhost for testing on remote machines inside 
+To connect to your local Apache virtualhost for testing on remote machines inside
 the same LAN, see these:
 
 * http://viget.com/extend/device-testing-local-virtual-hosts
 * http://xip.io/
 
-Setting that up enables you to develop locally but test on any device connected 
+Setting that up enables you to develop locally but test on any device connected
 to the same network.
 
 ### Mobile Emulator Testing
@@ -459,8 +469,8 @@ to the same network.
 ### Various Other Testing Tools
 
 * Remote Preview: http://viljamis.com/blog/2012/remote-preview/
-* Akamai Mobitest (Mobile Performance Testing): http://mobitest.akamai.com/m/index.cgi 
-* Mobile Perf bookmarklet: http://stevesouders.com/mobileperf/mobileperfbkm.php 
+* Akamai Mobitest (Mobile Performance Testing): http://mobitest.akamai.com/m/index.cgi
+* Mobile Perf bookmarklet: http://stevesouders.com/mobileperf/mobileperfbkm.php
 * WebPagetest (Website Performance and Optimization Test): http://www.webpagetest.org/
 * 8 Popular online apps to test the mobile version of your site: http://www.webdesignerdepot.com/2011/10/8-popular-online-apps-to-test-the-mobile-version-of-your-site/
 * Opera Mini simulator: http://www.opera.com/developer/opera-mini-simulator
