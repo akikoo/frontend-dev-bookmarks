@@ -26,6 +26,7 @@ This is a living document (no shit!).
 * The Accessibility Project: http://a11yproject.com/
 * BBC Accessibility Guidelines: http://www.bbc.co.uk/guidelines/futuremedia/accessibility/
 * OpenAjax Accessibility Examples: http://oaa-accessibility.org/examples/
+* Accessible Mega Menu (by Adobe): http://adobe-accessibility.github.io/Accessible-Mega-Menu/
 
 ### Web Content Accessibility Guidelines (WCAG 2.0)
 
@@ -58,6 +59,11 @@ This is a living document (no shit!).
 
 ### Accessibility Libraries/Helpers
 * Keyboard accessibility: http://davidwalsh.name/keyboard-shortcuts
+
+### Accessibility Tools
+* http://www.paciellogroup.com/resources/contrastAnalyser
+* http://wave.webaim.org/
+* http://www.colororacle.org/
 
 
 ## HTML5 Resources (semantic markup mainly)
@@ -124,6 +130,8 @@ This is a living document (no shit!).
 * All you need to know about CSS Transitions: http://blog.alexmaccaw.com/css-transitions
 * CSS3 Animation Cheat Sheet: http://www.justinaguilar.com/animations/
 * A visual guide to Sass & Compass Color Functions: http://jackiebalzer.com/color
+* Introducing Scut, a new Sass utility library: http://css-tricks.com/introducing-scut-new-sass-utility-library/
+* Colorpeek: http://colorpeek.com/
 
 ### CSS Architecture
 
@@ -143,6 +151,7 @@ This is a living document (no shit!).
 * Modular CSS, an example: http://thesassway.com/advanced/modular-css-an-example
 * Objects in Space: https://medium.com/objects-in-space/f6f404727
 * How to Scale and Maintain Legacy CSS with Sass and SMACSS: http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/
+* Think Modularly: http://webstandardssherpa.com/reviews/think-modularly
 
 ### CSS Guidelines, Style Guides & Patterns
 
@@ -201,7 +210,6 @@ This is a living document (no shit!).
 * Common Patterns in Styleguides, Boilerplates and Pattern Libraries: http://blog.cloudfour.com/common-patterns/
 * Styleguide & Boilerplate Patterns (linked from the article above): https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0
 * The Pitfalls of UI Kits and Pattern Libraries: http://blog.cloudfour.com/pitfalls/
-* Building for Content Choreography using Flexbox: http://www.jordanm.co.uk/post/53179333055/building-for-content-choreography-using-flexbox
 * Responsive Design Workflow (book by Stephen Hay): http://responsivedesignworkflow.com/
 * Responsive Data Table Roundup: http://css-tricks.com/responsive-data-table-roundup/
 * Case Study: Betting on a fully responsive web application: http://blog.14islands.com/post/52546836134/case-study-betting-on-a-fully-responsive-web
@@ -220,6 +228,12 @@ This is a living document (no shit!).
 * Atomic Design: http://bradfrostweb.com/blog/post/atomic-web-design/
 * Pattern Lab: http://patternlab.bradfrostweb.com/
 * Interface Inventory: http://bradfrostweb.com/blog/post/interface-inventory/
+
+### Flexbox
+
+* Building for Content Choreography using Flexbox: http://www.jordanm.co.uk/post/53179333055/building-for-content-choreography-using-flexbox
+* The Ultimate Flexbox Cheat Sheet: http://www.sketchingwithcss.com/samplechapter/cheatsheet.html
+* Solved by Flexbox: http://philipwalton.github.io/solved-by-flexbox/
 
 ### Mobile First
 
@@ -367,6 +381,7 @@ This is a living document (no shit!).
 * You Can't Detect A Touchscreen: http://www.stucox.com/blog/you-cant-detect-a-touchscreen/
 * Detecting touch: it’s the "why", not the "how": https://hacks.mozilla.org/2013/04/detecting-touch-its-the-why-not-the-how/
 * Touch/pointer tests and demos: http://patrickhlauke.github.io/touch/
+* What Exactly Is..... The 300ms Click Delay: http://www.icenium.com/blog/icenium-team-blog/2013/11/21/what-exactly-is.....-the-300ms-click-delay
 
 ### Libraries and Polyfills
 
@@ -383,6 +398,7 @@ This is a living document (no shit!).
 * Reqwest - browser asynchronous http requests: https://github.com/runningskull/reqwest
 * Mousetrap, a library for handling keyboard shortcuts in Javascript: http://craig.is/killing/mice
 * Applicative Programming In JavaScript With lodash.js: http://tech.pro/tutorial/1611/functional-javascript
+* Moment.js: http://momentjs.com/
 
 ### JavaScript Style Guides
 
@@ -415,6 +431,7 @@ This is a living document (no shit!).
 * Using SVG graphics today: http://joshemerson.co.uk/blog/using-svg-graphics-today
 * SVG for Web: http://joshemerson.co.uk/blog/svg-for-web/
 * SVG, Use it Already: http://dbushell.com/2012/04/03/svg-use-it-already/
+* SVG and image tag tricks: http://lynn.ru/examples/svg/en.html
 
 ### Libraries
 
@@ -448,6 +465,7 @@ This is a living document (no shit!).
 
 * JSHint: http://jshint.com/
 * JSLint: http://www.jslint.com/
+* ESLint: https://github.com/nzakas/eslint
 * CSSLint: http://csslint.net/
 
 ### Cross-Device Testing
@@ -505,6 +523,8 @@ to the same network.
 ### Documentation
 
 * Documentation Tool: http://www.dexy.it/
+* Mozilla Developer Network (MDN): https://developer.mozilla.org/
+* DevDocs: http://devdocs.io/
 
 
 ## Miscellaneous:
@@ -525,6 +545,7 @@ to the same network.
 * Why Talented Creatives Are Leaving Your Shitty Agency: http://www.mobileinc.co.uk/2013/09/why-talented-creatives-are-leaving-your-shitty-agency/
 * On Progressive Enhancement: http://bradfrostweb.com/blog/post/on-progressive-enhancement/
 * WebPlatform.org: http://www.webplatform.org/
+* Chrome DevTools documentation: https://developers.google.com/chrome-developer-tools/
 
 ## Inspiring Conference Talks
 
