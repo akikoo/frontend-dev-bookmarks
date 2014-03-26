@@ -132,6 +132,8 @@ This is a living document (no shit!).
 * A visual guide to Sass & Compass Color Functions: http://jackiebalzer.com/color
 * Introducing Scut, a new Sass utility library: http://css-tricks.com/introducing-scut-new-sass-utility-library/
 * Colorpeek: http://colorpeek.com/
+* Framer (prototyping tool): http://www.framerjs.com/
+* CSS Gradients: http://css-tricks.com/css3-gradients/
 
 ### CSS Architecture
 
@@ -152,6 +154,7 @@ This is a living document (no shit!).
 * Objects in Space: https://medium.com/objects-in-space/f6f404727
 * How to Scale and Maintain Legacy CSS with Sass and SMACSS: http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/
 * Think Modularly: http://webstandardssherpa.com/reviews/think-modularly
+* Naming UI components in OOCSS: http://csswizardry.com/2014/03/naming-ui-components-in-oocss/
 
 ### CSS Guidelines, Style Guides & Patterns
 
@@ -228,6 +231,7 @@ This is a living document (no shit!).
 * Atomic Design: http://bradfrostweb.com/blog/post/atomic-web-design/
 * Pattern Lab: http://patternlab.bradfrostweb.com/
 * Interface Inventory: http://bradfrostweb.com/blog/post/interface-inventory/
+* Responsive Strategy: http://bradfrostweb.com/blog/post/responsive-strategy/
 
 ### Flexbox
 
@@ -432,6 +436,7 @@ This is a living document (no shit!).
 * SVG for Web: http://joshemerson.co.uk/blog/svg-for-web/
 * SVG, Use it Already: http://dbushell.com/2012/04/03/svg-use-it-already/
 * SVG and image tag tricks: http://lynn.ru/examples/svg/en.html
+* Icon System with SVG Sprites: http://css-tricks.com/svg-sprites-use-better-icon-fonts/
 
 ### Libraries
 
@@ -519,6 +524,7 @@ to the same network.
 * Karma test runner for JavaScript: http://karma-runner.github.io/
 * Jasmine: http://pivotal.github.io/jasmine/
 * Testing Backbone applications with Jasmine and Sinon: http://tinnedfruit.com/2011/03/03/testing-backbone-apps-with-jasmine-sinon.html
+* gulp.js: http://gulpjs.com/
 
 ### Documentation
 
