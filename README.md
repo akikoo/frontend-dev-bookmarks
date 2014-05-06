@@ -64,6 +64,9 @@ This is a living document (no shit!).
 * http://www.paciellogroup.com/resources/contrastAnalyser
 * http://wave.webaim.org/
 * http://www.colororacle.org/
+* WebAIM's Color Contrast Checker: http://webaim.org/resources/contrastchecker/
+* Snook's Colour Contrast Check: http://www.snook.ca/technical/colour_contrast/colour.html
+* Check My Colours: http://www.checkmycolours.com/
 
 
 ## HTML5 Resources (semantic markup mainly)
@@ -322,6 +325,10 @@ This is a living document (no shit!).
 * Responsive Tables: http://blog.easy-designs.net/archives/responsive-tables/
 * Picking a Responsive Tables Solution: http://blog.cloudfour.com/picking-responsive-tables-solution/
 
+### Responsive E-mail
+
+* Responsive Email Patterns: http://responsiveemailpatterns.com/
+
 ### Responsive Tools
 
 * What's My Browser Size?: http://whatsmybrowsersize.com/
@@ -373,6 +380,8 @@ This is a living document (no shit!).
 * Part 2: Backbone.js Deconstructed: http://tech.pro/tutorial/1476/part-2-backbonejs-deconstructed
 * Re-Learning Backbone.js: http://bardevblog.wordpress.com/2012/12/04/re-learning-backbone-js/
 * Enough with the JavaScript already!: http://www.slideshare.net/nzakas/enough-withthejavascriptalready
+* You might not need jQuery: http://youmightnotneedjquery.com/
+* DOM Core: http://quirksmode.org/dom/core/
 
 ### JavaScript Architecture
 
@@ -415,6 +424,14 @@ This is a living document (no shit!).
 
 * Dive into HTML5: http://diveintohtml5.org/
 
+### Promises
+
+* Promises: http://www.promisejs.org/
+
+### Web Components
+
+* WebComponents.org: http://webcomponents.org/
+
 
 ## SVG
 
@@ -453,6 +470,11 @@ This is a living document (no shit!).
 ### SVG Editors
 
 * svg-edit: http://code.google.com/p/svg-edit/
+
+### Responsive SVG
+
+* Responsive Icons: http://responsiveicons.co.uk/
+* Rethinking Responsive SVG: http://coding.smashingmagazine.com/2014/03/05/rethinking-responsive-svg/
 
 
 ## Performance
@@ -500,6 +522,7 @@ to the same network.
 * Phantom Limb: http://www.vodori.com/blog/phantom-limb.html
 * Ghostlab (synchronized testing for web and mobile): http://vanamco.com/ghostlab/
 * modern.IE: http://www.modern.ie/
+* Analyze your website speed and performance: http://www.sitespeed.io/
 
 ### What's Supported? (Compatibility Tables)
 
