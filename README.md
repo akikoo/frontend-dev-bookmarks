@@ -49,6 +49,8 @@ This is a living document (no shit!).
 * Carousels and ARIA Tabs: http://www.webaxe.org/carousels-and-aria-tabs/
 * Tools & Code Examples for ARIA Development: http://www.webaxe.org/tools-code-examples-for-aria-development/
 * Web Accessibility tutorial: http://itstiredinhere.com/accessibility/
+* Using WAI-ARIA in HTML: http://rawgit.com/w3c/aria-in-html/master/index.html
+* Accessibility: The Missing Ingredient: http://alistapart.com/article/accessibility-the-missing-ingredient
 
 ### Mobile Accessibility Best Practices
 
@@ -158,6 +160,7 @@ This is a living document (no shit!).
 * How to Scale and Maintain Legacy CSS with Sass and SMACSS: http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/
 * Think Modularly: http://webstandardssherpa.com/reviews/think-modularly
 * Naming UI components in OOCSS: http://csswizardry.com/2014/03/naming-ui-components-in-oocss/
+* Markdown based documentation system: https://github.com/trulia/hologram
 
 ### CSS Guidelines, Style Guides & Patterns
 
@@ -235,12 +238,14 @@ This is a living document (no shit!).
 * Pattern Lab: http://patternlab.bradfrostweb.com/
 * Interface Inventory: http://bradfrostweb.com/blog/post/interface-inventory/
 * Responsive Strategy: http://bradfrostweb.com/blog/post/responsive-strategy/
+* HTML Wireframes: http://bradfrostweb.com/blog/post/html-wireframes/
 
 ### Flexbox
 
 * Building for Content Choreography using Flexbox: http://www.jordanm.co.uk/post/53179333055/building-for-content-choreography-using-flexbox
 * The Ultimate Flexbox Cheat Sheet: http://www.sketchingwithcss.com/samplechapter/cheatsheet.html
 * Solved by Flexbox: http://philipwalton.github.io/solved-by-flexbox/
+* A Complete Guide to Flexbox: http://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ### Mobile First
 
@@ -304,6 +309,7 @@ This is a living document (no shit!).
 * Iconic, an open source icon set: http://somerandomdude.com/work/open-iconic/
 * Image Compression for Web Developers: http://www.html5rocks.com/en/tutorials/speed/img-compression/
 * Mobify.js Image Resizer: http://www.mobify.com/mobifyjs/v2/docs/image-resizer/
+* Responsive Images Done Right: A guide to picture and srcset: http://www.smashingmagazine.com/2014/05/14/responsive-images-done-right-guide-picture-srcset/
 
 ### Fluid/Responsive Videos
 
@@ -328,6 +334,7 @@ This is a living document (no shit!).
 ### Responsive E-mail
 
 * Responsive Email Patterns: http://responsiveemailpatterns.com/
+* Can Email Be Responsive?: http://alistapart.com/article/can-email-be-responsive
 
 ### Responsive Tools
 
@@ -454,6 +461,7 @@ This is a living document (no shit!).
 * SVG, Use it Already: http://dbushell.com/2012/04/03/svg-use-it-already/
 * SVG and image tag tricks: http://lynn.ru/examples/svg/en.html
 * Icon System with SVG Sprites: http://css-tricks.com/svg-sprites-use-better-icon-fonts/
+* The Designer’s Guide to Working with SVG – Pt 1: http://www.sitepoint.com/designers-guide-working-with-svg/
 
 ### Libraries
 
@@ -470,11 +478,15 @@ This is a living document (no shit!).
 ### SVG Editors
 
 * svg-edit: http://code.google.com/p/svg-edit/
+* Peter Collingridge's SVG Optimizer: http://petercollingridge.appspot.com/svg-editor
 
 ### Responsive SVG
 
 * Responsive Icons: http://responsiveicons.co.uk/
 * Rethinking Responsive SVG: http://coding.smashingmagazine.com/2014/03/05/rethinking-responsive-svg/
+
+### Accessible SVG
+* Tips for Creating Accessible SVG: https://www.sitepoint.com/tips-accessible-svg/
 
 
 ## Performance
@@ -532,6 +544,7 @@ to the same network.
 * HTML5 Please: http://html5please.com/
 * HTML5 compatibility on mobile and tablet browsers: http://mobilehtml5.org/
 * Event compatibility tables: http://www.quirksmode.org/dom/events/
+* IE Platform Status: http://status.modern.ie/
 
 ### Code Sharing Tools
 
