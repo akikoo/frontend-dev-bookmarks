@@ -419,6 +419,8 @@ This is a living document (no shit!).
 * Mousetrap, a library for handling keyboard shortcuts in Javascript: http://craig.is/killing/mice
 * Applicative Programming In JavaScript With lodash.js: http://tech.pro/tutorial/1611/functional-javascript
 * Moment.js: http://momentjs.com/
+* Ender.js: http://enderjs.com/
+* JavaScript Too: http://www.javascriptoo.com/
 
 ### JavaScript Style Guides
 
