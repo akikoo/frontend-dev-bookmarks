@@ -27,6 +27,7 @@ This is a living document (no shit!).
 * BBC Accessibility Guidelines: http://www.bbc.co.uk/guidelines/futuremedia/accessibility/
 * OpenAjax Accessibility Examples: http://oaa-accessibility.org/examples/
 * Accessible Mega Menu (by Adobe): http://adobe-accessibility.github.io/Accessible-Mega-Menu/
+* Quick Reference, Web Accessibility Principles: http://webaim.org/resources/quickref/
 
 ### Web Content Accessibility Guidelines (WCAG 2.0)
 
@@ -51,6 +52,7 @@ This is a living document (no shit!).
 * Web Accessibility tutorial: http://itstiredinhere.com/accessibility/
 * Using WAI-ARIA in HTML: http://rawgit.com/w3c/aria-in-html/master/index.html
 * Accessibility: The Missing Ingredient: http://alistapart.com/article/accessibility-the-missing-ingredient
+* ARIA design patterns: http://www.w3.org/WAI/PF/aria-practices/#aria_ex
 
 ### Mobile Accessibility Best Practices
 
@@ -161,6 +163,7 @@ This is a living document (no shit!).
 * Think Modularly: http://webstandardssherpa.com/reviews/think-modularly
 * Naming UI components in OOCSS: http://csswizardry.com/2014/03/naming-ui-components-in-oocss/
 * Markdown based documentation system: https://github.com/trulia/hologram
+* The Role of Utility Classes in Scalable CSS: http://davidtheclark.com/on-utility-classes/
 
 ### CSS Guidelines, Style Guides & Patterns
 
@@ -310,6 +313,8 @@ This is a living document (no shit!).
 * Image Compression for Web Developers: http://www.html5rocks.com/en/tutorials/speed/img-compression/
 * Mobify.js Image Resizer: http://www.mobify.com/mobifyjs/v2/docs/image-resizer/
 * Responsive Images Done Right: A guide to picture and srcset: http://www.smashingmagazine.com/2014/05/14/responsive-images-done-right-guide-picture-srcset/
+* Responsive Images: Use Cases and Documented Code Snippets to Get You Started: https://dev.opera.com/articles/responsive-images/
+* Native Responsive Images: https://dev.opera.com/articles/native-responsive-images/
 
 ### Fluid/Responsive Videos
 
@@ -438,6 +443,7 @@ This is a living document (no shit!).
 ### Web Components
 
 * WebComponents.org: http://webcomponents.org/
+* Web Components punch list: http://www.paciellogroup.com/blog/2014/09/web-components-punch-list/
 
 
 ## SVG
@@ -462,6 +468,7 @@ This is a living document (no shit!).
 * SVG and image tag tricks: http://lynn.ru/examples/svg/en.html
 * Icon System with SVG Sprites: http://css-tricks.com/svg-sprites-use-better-icon-fonts/
 * The Designer’s Guide to Working with SVG – Pt 1: http://www.sitepoint.com/designers-guide-working-with-svg/
+* MDN's SVG Tutorial: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 
 ### Libraries
 
@@ -474,6 +481,7 @@ This is a living document (no shit!).
 * ScaleRaphaël: http://www.shapevent.com/scaleraphael/
 * jVectorMap: http://jvectormap.owl-hollow.net/
 * Snap.svg: http://snapsvg.io/
+* Velocity: https://github.com/julianshapiro/velocity
 
 ### SVG Editors
 
@@ -487,6 +495,11 @@ This is a living document (no shit!).
 
 ### Accessible SVG
 * Tips for Creating Accessible SVG: https://www.sitepoint.com/tips-accessible-svg/
+
+
+## i18n
+
+* Let's Talk About RTL: http://alfy.me/2014/07/26/lets-talk-about-rtl.html
 
 
 ## Performance
@@ -561,6 +574,7 @@ to the same network.
 * Jasmine: http://pivotal.github.io/jasmine/
 * Testing Backbone applications with Jasmine and Sinon: http://tinnedfruit.com/2011/03/03/testing-backbone-apps-with-jasmine-sinon.html
 * gulp.js: http://gulpjs.com/
+* webpack: https://github.com/webpack/webpack
 
 ### Documentation
 
