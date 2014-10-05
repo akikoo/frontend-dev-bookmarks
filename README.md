@@ -141,6 +141,7 @@ This is a living document (no shit!).
 * Colorpeek: http://colorpeek.com/
 * Framer (prototyping tool): http://www.framerjs.com/
 * CSS Gradients: http://css-tricks.com/css3-gradients/
+* Two pretty-good techniques for styling tricky form elements: http://blog.cloudfour.com/styling-form-elements/
 
 ### CSS Architecture
 
@@ -195,6 +196,7 @@ This is a living document (no shit!).
 * HTML5 base template: https://gist.github.com/akikoo/f8f9ccfe149244e8e72a
 * Pure: http://purecss.io/
 * SouthStreet Progressive Enhancement Workflow: https://github.com/filamentgroup/southstreet
+* Scut: Sass Utilities for the Frontend Laborer: http://davidtheclark.github.io/scut/
 
 
 ## Responsive Web Design Resources
