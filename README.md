@@ -71,6 +71,8 @@ This is a living document (no shit!).
 * WebAIM's Color Contrast Checker: http://webaim.org/resources/contrastchecker/
 * Snook's Colour Contrast Check: http://www.snook.ca/technical/colour_contrast/colour.html
 * Check My Colours: http://www.checkmycolours.com/
+* Accessibility Testing Tools: http://www.paciellogroup.com/blog/2010/09/accessibility-testing-tools-we-use/
+* Accessibility Testing Tools – updated: http://www.paciellogroup.com/blog/2014/10/accessibility-testing-tools-updated/
 
 
 ## HTML5 Resources (semantic markup mainly)
@@ -113,6 +115,7 @@ This is a living document (no shit!).
 * Everything you need to know about HTML5 video and audio: http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/
 * MediaElement.js (HTML5 video/audio player with Flash and Silverlight shims): http://mediaelementjs.com/
 * Accessible HTML5 Media Players: http://www.webaxe.org/accessible-html5-media-players-and-more/
+* Accessible media player resources and demos: http://www.iheni.com/accessible-media-player-resources/
 
 
 ## CSS
@@ -142,6 +145,7 @@ This is a living document (no shit!).
 * Framer (prototyping tool): http://www.framerjs.com/
 * CSS Gradients: http://css-tricks.com/css3-gradients/
 * Two pretty-good techniques for styling tricky form elements: http://blog.cloudfour.com/styling-form-elements/
+* Replacing Radio Buttons Without Replacing Radio Buttons: http://www.sitepoint.com/replacing-radio-buttons-without-replacing-radio-buttons/
 
 ### CSS Architecture
 
@@ -197,6 +201,7 @@ This is a living document (no shit!).
 * Pure: http://purecss.io/
 * SouthStreet Progressive Enhancement Workflow: https://github.com/filamentgroup/southstreet
 * Scut: Sass Utilities for the Frontend Laborer: http://davidtheclark.github.io/scut/
+* Google Web Starter Kit: https://developers.google.com/web/starter-kit/
 
 
 ## Responsive Web Design Resources
@@ -497,6 +502,9 @@ This is a living document (no shit!).
 
 ### Accessible SVG
 * Tips for Creating Accessible SVG: https://www.sitepoint.com/tips-accessible-svg/
+
+### SVG animations
+* A Guide to SVG Animations: http://css-tricks.com/guide-svg-animations-smil/
 
 
 ## i18n
