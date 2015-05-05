@@ -53,6 +53,7 @@ This is a living document (no shit!).
 * Using WAI-ARIA in HTML: http://rawgit.com/w3c/aria-in-html/master/index.html
 * Accessibility: The Missing Ingredient: http://alistapart.com/article/accessibility-the-missing-ingredient
 * ARIA design patterns: http://www.w3.org/WAI/PF/aria-practices/#aria_ex
+* ARIA examples: http://heydonworks.com/practical_aria_examples/
 
 ### Mobile Accessibility Best Practices
 
@@ -62,9 +63,11 @@ This is a living document (no shit!).
 * BBC Mobile Accessibility Guidelines: http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile_access.shtml
 
 ### Accessibility Libraries/Helpers
+
 * Keyboard accessibility: http://davidwalsh.name/keyboard-shortcuts
 
 ### Accessibility Tools
+
 * http://www.paciellogroup.com/resources/contrastAnalyser
 * http://wave.webaim.org/
 * http://www.colororacle.org/
@@ -184,6 +187,9 @@ This is a living document (no shit!).
 * Design patterns: http://ui-patterns.com/patterns/
 * A More Flexible Development Framework: http://www.colmtuite.com/a-more-flexible-development-framework
 * KSS, a methodology for documenting CSS and generating styleguides: https://github.com/kneath/kss
+* Website Style Guide Resources: http://styleguides.io/
+* Sass Guidelines: http://sass-guidelin.es/
+
 
 ## Starter Templates, Boilerplates & Frameworks
 
@@ -202,6 +208,7 @@ This is a living document (no shit!).
 * SouthStreet Progressive Enhancement Workflow: https://github.com/filamentgroup/southstreet
 * Scut: Sass Utilities for the Frontend Laborer: http://davidtheclark.github.io/scut/
 * Google Web Starter Kit: https://developers.google.com/web/starter-kit/
+* Basscss, low-level CSS toolkit: http://www.basscss.com/
 
 
 ## Responsive Web Design Resources
@@ -256,6 +263,7 @@ This is a living document (no shit!).
 * The Ultimate Flexbox Cheat Sheet: http://www.sketchingwithcss.com/samplechapter/cheatsheet.html
 * Solved by Flexbox: http://philipwalton.github.io/solved-by-flexbox/
 * A Complete Guide to Flexbox: http://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* A Visual Guide to CSS3 Flexbox Properties: https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
 
 ### Mobile First
 
@@ -446,6 +454,7 @@ This is a living document (no shit!).
 ### Promises
 
 * Promises: http://www.promisejs.org/
+* JavaScript Promises: http://www.html5rocks.com/en/tutorials/es6/promises/
 
 ### Web Components
 
