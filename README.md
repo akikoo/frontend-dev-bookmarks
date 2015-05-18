@@ -172,6 +172,7 @@ This is a living document (no shit!).
 * Naming UI components in OOCSS: http://csswizardry.com/2014/03/naming-ui-components-in-oocss/
 * Markdown based documentation system: https://github.com/trulia/hologram
 * The Role of Utility Classes in Scalable CSS: http://davidtheclark.com/on-utility-classes/
+* Nesting Components: http://simurai.com/blog/2015/05/11/nesting-components/
 
 ### CSS Guidelines, Style Guides & Patterns
 
