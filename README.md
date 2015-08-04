@@ -173,6 +173,7 @@ This is a living document (no shit!).
 * Markdown based documentation system: https://github.com/trulia/hologram
 * The Role of Utility Classes in Scalable CSS: http://davidtheclark.com/on-utility-classes/
 * Nesting Components: http://simurai.com/blog/2015/05/11/nesting-components/
+* Contextual Styling: http://csswizardry.com/2015/06/contextual-styling-ui-components-nesting-and-implementation-detail/
 
 ### CSS Guidelines, Style Guides & Patterns
 
@@ -462,6 +463,10 @@ This is a living document (no shit!).
 * WebComponents.org: http://webcomponents.org/
 * Web Components punch list: http://www.paciellogroup.com/blog/2014/09/web-components-punch-list/
 
+### ReactJS
+
+* Architecting React.js Apps with Flux: http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/
+
 
 ## SVG
 
@@ -486,6 +491,7 @@ This is a living document (no shit!).
 * Icon System with SVG Sprites: http://css-tricks.com/svg-sprites-use-better-icon-fonts/
 * The Designer’s Guide to Working with SVG – Pt 1: http://www.sitepoint.com/designers-guide-working-with-svg/
 * MDN's SVG Tutorial: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+* SVG on the web - a practical guide: https://svgontheweb.com/
 
 ### Libraries
 
