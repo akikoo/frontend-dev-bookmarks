@@ -457,6 +457,14 @@ This is a living document (no shit!).
 
 * Promises: http://www.promisejs.org/
 * JavaScript Promises: http://www.html5rocks.com/en/tutorials/es6/promises/
+* ECMAScript 6 promises (1/2) - foundations: http://www.2ality.com/2014/09/es6-promises-foundations.html
+* ECMAScript 6 promises (2/2) - the API: http://www.2ality.com/2014/10/es6-promises-api.html
+* We have a problem with promises: http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html
+
+### ECMAScript 6
+
+* Getting started with ECMAScript 6: http://www.2ality.com/2015/08/getting-started-es6.html
+
 
 ### Web Components
 
