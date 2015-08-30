@@ -174,6 +174,7 @@ This is a living document (no shit!).
 * The Role of Utility Classes in Scalable CSS: http://davidtheclark.com/on-utility-classes/
 * Nesting Components: http://simurai.com/blog/2015/05/11/nesting-components/
 * Contextual Styling: http://csswizardry.com/2015/06/contextual-styling-ui-components-nesting-and-implementation-detail/
+* CSS Modules: http://glenmaddern.com/articles/css-modules
 
 ### CSS Guidelines, Style Guides & Patterns
 
@@ -332,6 +333,7 @@ This is a living document (no shit!).
 * Responsive Images Done Right: A guide to picture and srcset: http://www.smashingmagazine.com/2014/05/14/responsive-images-done-right-guide-picture-srcset/
 * Responsive Images: Use Cases and Documented Code Snippets to Get You Started: https://dev.opera.com/articles/responsive-images/
 * Native Responsive Images: https://dev.opera.com/articles/native-responsive-images/
+* Responsive Images 101 series: http://blog.cloudfour.com/responsive-images-101-definitions/
 
 ### Fluid/Responsive Videos
 
@@ -380,6 +382,7 @@ This is a living document (no shit!).
 * PhantomJS: http://phantomjs.org/
 * CasperJS: http://casperjs.org/
 * Automatic Responsive screenshots creation with PhantomJS and CasperJS: https://gist.github.com/akikoo/6200960
+* BreakpointTester: http://breakpointtester.com/
 
 
 ## JavaScript and Generic Development Resources
