@@ -76,6 +76,7 @@ This is a living document (no shit!).
 * Check My Colours: http://www.checkmycolours.com/
 * Accessibility Testing Tools: http://www.paciellogroup.com/blog/2010/09/accessibility-testing-tools-we-use/
 * Accessibility Testing Tools – updated: http://www.paciellogroup.com/blog/2014/10/accessibility-testing-tools-updated/
+* The Visual ARIA Bookmarklet: http://whatsock.com/training/matrices/visual-aria.htm
 
 
 ## HTML5 Resources (semantic markup mainly)
@@ -192,6 +193,7 @@ This is a living document (no shit!).
 * KSS, a methodology for documenting CSS and generating styleguides: https://github.com/kneath/kss
 * Website Style Guide Resources: http://styleguides.io/
 * Sass Guidelines: http://sass-guidelin.es/
+* Primer: http://primercss.io/
 
 
 ## Starter Templates, Boilerplates & Frameworks
@@ -267,6 +269,7 @@ This is a living document (no shit!).
 * Solved by Flexbox: http://philipwalton.github.io/solved-by-flexbox/
 * A Complete Guide to Flexbox: http://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * A Visual Guide to CSS3 Flexbox Properties: https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
+* flexbugs: https://github.com/philipwalton/flexbugs
 
 ### Mobile First
 
@@ -546,6 +549,11 @@ This is a living document (no shit!).
 * Let's Make the Web Jank-free!: http://jankfree.org/
 * Setting a Performance Budget: http://timkadlec.com/2013/01/setting-a-performance-budget/
 * Front-end performance for web designers and front-end developers: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
+
+
+## Offline first
+
+* The offline cookbook: https://jakearchibald.com/2014/offline-cookbook/
 
 
 ## Quality Assurance & Testing
