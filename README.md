@@ -620,6 +620,7 @@ to the same network.
 * Testing Backbone applications with Jasmine and Sinon: http://tinnedfruit.com/2011/03/03/testing-backbone-apps-with-jasmine-sinon.html
 * gulp.js: http://gulpjs.com/
 * webpack: https://github.com/webpack/webpack
+* Accessibility engine for automated Web UI testing: https://github.com/dequelabs/axe-core
 
 ### Documentation
 
