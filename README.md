@@ -550,6 +550,9 @@ This is a living document (no shit!).
 * Setting a Performance Budget: http://timkadlec.com/2013/01/setting-a-performance-budget/
 * Front-end performance for web designers and front-end developers: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
 
+## Reflow
+
+* What forces layout/reflow: https://gist.github.com/paulirish/5d52fb081b3570c81e3a
 
 ## Offline first
 
