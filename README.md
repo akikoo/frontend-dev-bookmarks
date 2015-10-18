@@ -636,6 +636,11 @@ to the same network.
 * webpack: https://github.com/webpack/webpack
 * Accessibility engine for automated Web UI testing: https://github.com/dequelabs/axe-core
 
+### npm scripts 
+
+* How to use npm as a build tool: http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
+* Using npm as a task runner: http://paulcpederson.com/articles/npm-run/
+
 ### Documentation
 
 * Documentation Tool: http://www.dexy.it/
