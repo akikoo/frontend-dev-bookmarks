@@ -150,6 +150,13 @@ This is a living document (no shit!).
 * CSS Gradients: http://css-tricks.com/css3-gradients/
 * Two pretty-good techniques for styling tricky form elements: http://blog.cloudfour.com/styling-form-elements/
 * Replacing Radio Buttons Without Replacing Radio Buttons: http://www.sitepoint.com/replacing-radio-buttons-without-replacing-radio-buttons/
+* Animate.css: http://daneden.github.io/animate.css/
+* Motion UI: http://zurb.com/playground/motion-ui
+
+### Inline Critical CSS
+
+* criticalCSS: https://github.com/filamentgroup/criticalcss
+* Critical Path CSS Generator: https://github.com/pocketjoso/penthouse
 
 ### CSS Architecture
 
@@ -477,9 +484,12 @@ This is a living document (no shit!).
 * WebComponents.org: http://webcomponents.org/
 * Web Components punch list: http://www.paciellogroup.com/blog/2014/09/web-components-punch-list/
 
-### ReactJS
+### ReactJS & Flux
 
 * Architecting React.js Apps with Flux: http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/
+* Creating A Simple Shopping Cart with React.js and Flux: https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux
+* What is the Flux Application Architecture?: https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e
+* react-motion: https://github.com/chenglou/react-motion
 
 
 ## SVG
@@ -549,6 +559,7 @@ This is a living document (no shit!).
 * Let's Make the Web Jank-free!: http://jankfree.org/
 * Setting a Performance Budget: http://timkadlec.com/2013/01/setting-a-performance-budget/
 * Front-end performance for web designers and front-end developers: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
+* Using Web Fonts The Best Way (in 2015).: https://helloanselm.com/2015/using-webfonts-in-2015/
 
 ## Reflow
 
