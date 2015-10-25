@@ -644,6 +644,11 @@ to the same network.
 * Using npm as a task runner: http://paulcpederson.com/articles/npm-run/
 * Using npm as a build system for your next project: https://drublic.de/blog/npm-builds/
 
+### Sequential or parallel npm-scripts
+
+* parallelshell: https://github.com/keithamus/parallelshell
+* npm-run-all: https://github.com/mysticatea/npm-run-all
+
 ### Documentation
 
 * Documentation Tool: http://www.dexy.it/
