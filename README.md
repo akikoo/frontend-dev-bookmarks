@@ -578,6 +578,8 @@ This is a living document (no shit!).
 * JSLint: http://www.jslint.com/
 * ESLint: https://github.com/nzakas/eslint
 * CSSLint: http://csslint.net/
+* JSCS (JavaScript Code Style): http://jscs.info/
+* stylelint (modern CSS linter): http://stylelint.io/
 
 ### Cross-Device Testing
 
@@ -640,6 +642,7 @@ to the same network.
 
 * How to use npm as a build tool: http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
 * Using npm as a task runner: http://paulcpederson.com/articles/npm-run/
+* Using npm as a build system for your next project: https://drublic.de/blog/npm-builds/
 
 ### Documentation
 
@@ -667,6 +670,8 @@ to the same network.
 * On Progressive Enhancement: http://bradfrostweb.com/blog/post/on-progressive-enhancement/
 * WebPlatform.org: http://www.webplatform.org/
 * Chrome DevTools documentation: https://developers.google.com/chrome-developer-tools/
+* Front-end Handbook: https://www.gitbook.com/book/frontendmasters/front-end-handbook/details
+
 
 ## Inspiring Conference Talks
 
