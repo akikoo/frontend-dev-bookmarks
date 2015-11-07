@@ -221,6 +221,7 @@ This is a living document (no shit!).
 * Scut: Sass Utilities for the Frontend Laborer: http://davidtheclark.github.io/scut/
 * Google Web Starter Kit: https://developers.google.com/web/starter-kit/
 * Basscss, low-level CSS toolkit: http://www.basscss.com/
+* Lightning Design System: https://www.lightningdesignsystem.com/
 
 
 ## Responsive Web Design Resources
