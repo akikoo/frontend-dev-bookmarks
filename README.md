@@ -184,6 +184,10 @@ This is a living document (no shit!).
 * Contextual Styling: http://csswizardry.com/2015/06/contextual-styling-ui-components-nesting-and-implementation-detail/
 * CSS Modules: http://glenmaddern.com/articles/css-modules
 
+### Functional CSS 
+
+* Functional Programming, CSS, and your sanity: http://www.jon.gold/2015/07/functional-css/
+
 ### CSS Guidelines, Style Guides & Patterns
 
 * Harry Roberts' general CSS notes, advice and guidelines: https://github.com/csswizardry/CSS-Guidelines
