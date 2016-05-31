@@ -106,7 +106,7 @@ This is a living document (no shit!).
 * Using HTML5 semantic elements today: http://www.nczonline.net/blog/2011/03/22/using-html5-semantic-elements-today/
 * HTML5 Right Here, Right Now: http://tantek.com/presentations/2010/11/html5-now/
 * hAtom 0.1 Microformat: http://microformats.org/wiki/hatom
-
+* A collection of HTML head elements: https://github.com/joshbuchea/HEAD
 
 ### HTML5 Audio & Video
 
@@ -349,6 +349,7 @@ This is a living document (no shit!).
 * Responsive Images: Use Cases and Documented Code Snippets to Get You Started: https://dev.opera.com/articles/responsive-images/
 * Native Responsive Images: https://dev.opera.com/articles/native-responsive-images/
 * Responsive Images 101 series: http://blog.cloudfour.com/responsive-images-101-definitions/
+* Responsive Image Breakpoints Generator: http://www.responsivebreakpoints.com/
 
 ### Fluid/Responsive Videos
 
@@ -495,6 +496,7 @@ This is a living document (no shit!).
 * Creating A Simple Shopping Cart with React.js and Flux: https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux
 * What is the Flux Application Architecture?: https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e
 * react-motion: https://github.com/chenglou/react-motion
+* React boilerplate: http://reactboilerplate.com/
 
 
 ## SVG
