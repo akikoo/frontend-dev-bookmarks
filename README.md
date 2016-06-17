@@ -226,6 +226,7 @@ This is a living document (no shit!).
 * Google Web Starter Kit: https://developers.google.com/web/starter-kit/
 * Basscss, low-level CSS toolkit: http://www.basscss.com/
 * Lightning Design System: https://www.lightningdesignsystem.com/
+* Tachyons: http://tachyons.io/
 
 
 ## Responsive Web Design Resources
@@ -298,6 +299,7 @@ This is a living document (no shit!).
 * CSS Media Queries & Using Available Space: http://css-tricks.com/6731-css-media-queries/
 * Using Media Queries in the Real World: http://www.broken-links.com/2011/02/21/using-media-queries-in-the-real-world/
 * Windows mobile media queries: http://adactio.com/journal/4494/
+* @include-media: http://include-media.com/
 
 ### Media Queries (CSS + JS)
 
@@ -312,6 +314,7 @@ This is a living document (no shit!).
 * Thoughts on Media Queries for Elements: http://www.jonathantneal.com/blog/thoughts-on-media-queries-for-elements/
 * MediaClass (Javascript-powered cross-browser media queries and events): https://github.com/jonathantneal/MediaClass
 * Selector Queries (adjust the layout of an HTML element based on its width): https://github.com/ahume/selector-queries/
+* EQCSS: http://elementqueries.com/
 
 ### Fluid Grids
 
