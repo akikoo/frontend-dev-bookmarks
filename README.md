@@ -487,7 +487,6 @@ This is a living document (no shit!).
 
 * Getting started with ECMAScript 6: http://www.2ality.com/2015/08/getting-started-es6.html
 
-
 ### Web Components
 
 * WebComponents.org: http://webcomponents.org/
@@ -500,6 +499,10 @@ This is a living document (no shit!).
 * What is the Flux Application Architecture?: https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e
 * react-motion: https://github.com/chenglou/react-motion
 * React boilerplate: http://reactboilerplate.com/
+
+### Service Workers
+
+* Awesome Service Workers: https://github.com/TalAter/awesome-service-workers
 
 
 ## SVG
