@@ -79,6 +79,11 @@ This is a living document (no shit!).
 * The Visual ARIA Bookmarklet: http://whatsock.com/training/matrices/visual-aria.htm
 * ally.js: http://allyjs.io/
 
+### Accessibility coding exercises
+
+* Teach Access Tutorial: https://teachaccess.github.io/tutorial/
+
+
 ## HTML5 Resources (semantic markup mainly)
 
 ### HTML5 Specification
