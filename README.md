@@ -650,7 +650,7 @@ to the same network.
 * Grunt task runner: http://gruntjs.com/
 * Testing Require.js code with Karma: https://github.com/kjbekkelund/karma-requirejs
 * Karma test runner for JavaScript: http://karma-runner.github.io/
-* Jasmine: http://pivotal.github.io/jasmine/
+* Jasmine: https://jasmine.github.io/
 * Testing Backbone applications with Jasmine and Sinon: http://tinnedfruit.com/2011/03/03/testing-backbone-apps-with-jasmine-sinon.html
 * gulp.js: http://gulpjs.com/
 * webpack: https://github.com/webpack/webpack
