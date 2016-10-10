@@ -210,7 +210,7 @@ This is a living document (no shit!).
 * Website Style Guide Resources: http://styleguides.io/
 * Sass Guidelines: http://sass-guidelin.es/
 * Primer: http://primercss.io/
-
+* Taking Pattern Libraries To The Next Level: https://www.smashingmagazine.com/taking-pattern-libraries-next-level/
 
 ## Starter Templates, Boilerplates & Frameworks
 
