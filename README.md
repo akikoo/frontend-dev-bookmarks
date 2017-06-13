@@ -78,6 +78,7 @@ This is a living document (no shit!).
 * Accessibility Testing Tools – updated: http://www.paciellogroup.com/blog/2014/10/accessibility-testing-tools-updated/
 * The Visual ARIA Bookmarklet: http://whatsock.com/training/matrices/visual-aria.htm
 * ally.js: http://allyjs.io/
+* Color Safe: http://colorsafe.co/
 
 ### Accessibility coding exercises
 
