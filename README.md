@@ -84,6 +84,11 @@ This is a living document (no shit!).
 
 * Teach Access Tutorial: https://teachaccess.github.io/tutorial/
 
+### Inclusive Design
+
+* Inclusive Design Principles: http://inclusivedesignprinciples.org/
+* Inclusive Components: https://inclusive-components.design/
+
 
 ## HTML5 Resources (semantic markup mainly)
 
