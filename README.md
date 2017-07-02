@@ -79,6 +79,7 @@ This is a living document (no shit!).
 * The Visual ARIA Bookmarklet: http://whatsock.com/training/matrices/visual-aria.htm
 * ally.js: http://allyjs.io/
 * Color Safe: http://colorsafe.co/
+* Web Accessibility Evaluation Tools List (by W3C): https://www.w3.org/WAI/ER/tools/
 
 ### Accessibility coding exercises
 
