@@ -81,6 +81,11 @@ This is a living document (no shit!).
 * Color Safe: http://colorsafe.co/
 * Web Accessibility Evaluation Tools List (by W3C): https://www.w3.org/WAI/ER/tools/
 
+### Accessibility communities
+
+* A11y Slack: https://web-a11y.slack.com/
+* A11ySlackers on Gitter: https://gitter.im/w3c/a11ySlackers
+
 ### Accessibility coding exercises
 
 * Teach Access Tutorial: https://teachaccess.github.io/tutorial/
@@ -94,6 +99,7 @@ This is a living document (no shit!).
 ## HTML5 Resources (semantic markup mainly)
 
 ### HTML5 Specification
+
 
 * The HTML5 specification, Web Developer Edition: http://developers.whatwg.org/
 * HTML Living Standard: http://www.whatwg.org/specs/web-apps/current-work/multipage/
