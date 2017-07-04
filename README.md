@@ -28,6 +28,7 @@ This is a living document (no shit!).
 * OpenAjax Accessibility Examples: http://oaa-accessibility.org/examples/
 * Accessible Mega Menu (by Adobe): http://adobe-accessibility.github.io/Accessible-Mega-Menu/
 * Quick Reference, Web Accessibility Principles: http://webaim.org/resources/quickref/
+* Easy Checks - A First Review of Web Accessibility: https://www.w3.org/WAI/eval/preliminary
 
 ### Web Content Accessibility Guidelines (WCAG 2.0)
 
