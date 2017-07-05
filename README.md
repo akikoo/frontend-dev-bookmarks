@@ -29,6 +29,7 @@ This is a living document (no shit!).
 * Accessible Mega Menu (by Adobe): http://adobe-accessibility.github.io/Accessible-Mega-Menu/
 * Quick Reference, Web Accessibility Principles: http://webaim.org/resources/quickref/
 * Easy Checks - A First Review of Web Accessibility: https://www.w3.org/WAI/eval/preliminary
+* Google Web Fundamentals - Accessibility: https://developers.google.com/web/fundamentals/accessibility/
 
 ### Web Content Accessibility Guidelines (WCAG 2.0)
 
