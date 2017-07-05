@@ -101,7 +101,6 @@ This is a living document (no shit!).
 
 ### HTML5 Specification
 
-
 * The HTML5 specification, Web Developer Edition: http://developers.whatwg.org/
 * HTML Living Standard: http://www.whatwg.org/specs/web-apps/current-work/multipage/
 * HTML5 differences from HTML4 (section listing the new HTML5 elements): http://dev.w3.org/html5/html4-differences/#new-elements
@@ -227,6 +226,11 @@ This is a living document (no shit!).
 * Primer: http://primercss.io/
 * Taking Pattern Libraries To The Next Level: https://www.smashingmagazine.com/taking-pattern-libraries-next-level/
 
+## CSS Grid Layout
+
+* CSS Grid Layout: https://gridbyexample.com/
+
+
 ## Starter Templates, Boilerplates & Frameworks
 
 * Grunt Frontend Workflow: https://github.com/akikoo/grunt-frontend-workflow
@@ -248,6 +252,7 @@ This is a living document (no shit!).
 * Lightning Design System: https://www.lightningdesignsystem.com/
 * Tachyons: http://tachyons.io/
 * SUIT CSS: https://suitcss.github.io/
+
 
 ## Responsive Web Design Resources
 
