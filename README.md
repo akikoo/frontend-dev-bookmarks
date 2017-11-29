@@ -85,6 +85,7 @@ This is a living document (no shit!).
 * ally.js: http://allyjs.io/
 * Color Safe: http://colorsafe.co/
 * Web Accessibility Evaluation Tools List (by W3C): https://www.w3.org/WAI/ER/tools/
+* Funkify - disability simulator: http://www.funkify.org/
 
 ### Accessibility communities
 
