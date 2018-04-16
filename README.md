@@ -232,10 +232,14 @@ This is a living document (no shit!).
 * Primer: http://primercss.io/
 * Taking Pattern Libraries To The Next Level: https://www.smashingmagazine.com/taking-pattern-libraries-next-level/
 
+### Component style guide generators
+
+* Fractal: https://fractal.build/
+
+
 ## CSS Grid Layout
 
 * CSS Grid Layout: https://gridbyexample.com/
-
 
 ## Starter Templates, Boilerplates & Frameworks
 
