@@ -40,6 +40,8 @@ This is a living document (no shit!).
 * Web Content Accessibility Guidelines (WCAG) 2.0 Specification: http://www.w3.org/TR/WCAG20
 * How to Meet WCAG 2.0 (A customizable quick reference to Web Content Accessibility Guidelines 2.0 requirements (success criteria) and techniques): http://www.w3.org/WAI/WCAG20/quickref/
 * Accessibility Guidelines: https://accessibility.voxmedia.com/
+* The Accessibility Cheatsheet: https://bitsofco.de/the-accessibility-cheatsheet/
+
 
 ### Accessible Rich Internet Applications (WAI-ARIA)
 
