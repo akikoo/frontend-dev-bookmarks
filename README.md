@@ -602,6 +602,11 @@ This is a living document (no shit!).
 * Let's Talk About RTL: http://alfy.me/2014/07/26/lets-talk-about-rtl.html
 
 
+## Design Systems
+
+* Design Systems - A resource for learning, creating and evangelizing design systems: https://www.designsystems.com/
+
+
 ## Performance
 
 * Web Performance 101: http://www.webperformancetoday.com/2013/01/31/web-performance-101-developers/
