@@ -32,6 +32,7 @@ This is a living document (no shit!).
 * Google Web Fundamentals - Accessibility: https://developers.google.com/web/fundamentals/accessibility/
 * Deque University Accessibility Resources: https://dequeuniversity.com/resources/
 * Making your service accessible: an introduction (Gov.uk): https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction
+* Accessibility for Teams: https://accessibility.digital.gov/
 
 ### Web Content Accessibility Guidelines (WCAG 2.0)
 
