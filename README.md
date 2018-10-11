@@ -73,6 +73,7 @@ This is a living document (no shit!).
 ### Accessibility Libraries/Helpers
 
 * Keyboard accessibility: http://davidwalsh.name/keyboard-shortcuts
+* Styled accessible form controls: https://scottaohara.github.io/a11y_styled_form_controls/
 
 ### Accessibility Tools
 
